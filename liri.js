@@ -56,9 +56,9 @@ if (command === 'my-tweets') {
         // https://developer.spotify.com/web-api/search-item/
     });
 } else if (command === 'movie-this') {
-    // OMDB the movie entered
+    // TODO: OMDB the movie entered
 } else if (command === 'do-what-it-says') {
-    //TODO: do what it says, read the random.txt file and execute command
+    // TODO: do what it says, read the random.txt file and execute command
 } else {
     console.log("Invalid command, please try again.")
 }
