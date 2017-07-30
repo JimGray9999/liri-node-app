@@ -22,6 +22,9 @@ var spotifyAccess = new Spotify({
 var command = process.argv[2]; // command input
 var searchString = process.argv[3]; // search parameter
 
+// BONUS TODO: 
+// append the command + searchString to a log.txt file
+
 // Liri commands:
 
 if (command === 'my-tweets') {
