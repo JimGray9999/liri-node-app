@@ -1,4 +1,3 @@
-```JavaScript
 console.log('this is loaded');
 
 exports.twitterKeys = {
@@ -8,11 +7,16 @@ exports.twitterKeys = {
   access_token_secret: 'FCNtjzGkI9s9U4dcKO2m8FlBiDUbJdsAnYHNqOSBZWG2l',
 }
 
-spotify:
-
+exports.spotifyKeys = {
+	/* 
 Client ID
 98f61fa98b0c4dd7afeaf4fc261363b6
 Client Secret
-7b3aef64038941749bea1e702fccf07b
+7b3aef64038941749bea1e702fccf07b */
 
-```
+}
+
+exports.OMDBAPI = {
+	// API Key here
+}
+
