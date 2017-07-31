@@ -51,7 +51,15 @@ if (command === 'my-tweets') {
 
     spotifyAccess.search(songParams, function(error, data) {
         if (error) { console.log("I am error: " + error); }
-        console.log(data);
+        
+        console.log(data.tracks.items[0].artists.name);
+        fs.writeFile("testy.json", JSON.stringify(data.tracks), function(err) {
+
+        // If the code experiences any errors it will log the error to the console.
+        if (err) {
+            return console.log(err);
+        }});
+
         console.log("Artist(s): ");
         console.log("Song Name: ");
         console.log("Preview: ");
