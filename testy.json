@@ -1,1 +1,3398 @@
-{"href":"https://api.spotify.com/v1/search?query=signs&type=track&offset=0&limit=20","items":[{"album":{"album_type":"single","artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"},"href":"https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4","id":"3TVXtAsR1Inumwj472S9r4","name":"Drake","type":"artist","uri":"spotify:artist:3TVXtAsR1Inumwj472S9r4"}],"available_markets":["CA","MX","US"],"external_urls":{"spotify":"https://open.spotify.com/album/1JZxCJ86P4GUYkHj03CgDT"},"href":"https://api.spotify.com/v1/albums/1JZxCJ86P4GUYkHj03CgDT","id":"1JZxCJ86P4GUYkHj03CgDT","images":[{"height":640,"url":"https://i.scdn.co/image/7f8ae3fb4fb84a33585f5fc1ab22089aa7adbd6a","width":640},{"height":300,"url":"https://i.scdn.co/image/c6f600938100de863081c4482f1a9313dc0485e0","width":300},{"height":64,"url":"https://i.scdn.co/image/3be9ab6fc3a7dfb96dddaae4164bdf2cd48b1d8d","width":64}],"name":"Signs","type":"album","uri":"spotify:album:1JZxCJ86P4GUYkHj03CgDT"},"artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"},"href":"https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4","id":"3TVXtAsR1Inumwj472S9r4","name":"Drake","type":"artist","uri":"spotify:artist:3TVXtAsR1Inumwj472S9r4"}],"available_markets":["CA","MX","US"],"disc_number":1,"duration_ms":234373,"explicit":false,"external_ids":{"isrc":"USCM51700269"},"external_urls":{"spotify":"https://open.spotify.com/track/6Na5uKk5SsqZimk0hAWo8y"},"href":"https://api.spotify.com/v1/tracks/6Na5uKk5SsqZimk0hAWo8y","id":"6Na5uKk5SsqZimk0hAWo8y","name":"Signs","popularity":88,"preview_url":null,"track_number":1,"type":"track","uri":"spotify:track:6Na5uKk5SsqZimk0hAWo8y"},{"album":{"album_type":"album","artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"},"href":"https://api.spotify.com/v1/artists/0n94vC3S9c3mb2HyNAOcjg","id":"0n94vC3S9c3mb2HyNAOcjg","name":"The Head and the Heart","type":"artist","uri":"spotify:artist:0n94vC3S9c3mb2HyNAOcjg"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HK","HN","HU","ID","IE","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","SE","SG","SK","SV","TR","TW","US","UY"],"external_urls":{"spotify":"https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"},"href":"https://api.spotify.com/v1/albums/0EFitK3T7hqin7iGMbpltM","id":"0EFitK3T7hqin7iGMbpltM","images":[{"height":640,"url":"https://i.scdn.co/image/207367ce988976b3e9d973c85a665d9be7b63525","width":640},{"height":300,"url":"https://i.scdn.co/image/48f61a3172c79c24ff32bcfe3aa1e45bade54cee","width":300},{"height":64,"url":"https://i.scdn.co/image/016549086a49df436855b68694a1986ae82cff96","width":64}],"name":"Signs of Light","type":"album","uri":"spotify:album:0EFitK3T7hqin7iGMbpltM"},"artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"},"href":"https://api.spotify.com/v1/artists/0n94vC3S9c3mb2HyNAOcjg","id":"0n94vC3S9c3mb2HyNAOcjg","name":"The Head and the Heart","type":"artist","uri":"spotify:artist:0n94vC3S9c3mb2HyNAOcjg"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HK","HN","HU","ID","IE","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","SE","SG","SK","SV","TR","TW","US","UY"],"disc_number":1,"duration_ms":225560,"explicit":false,"external_ids":{"isrc":"USWB11600722"},"external_urls":{"spotify":"https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs"},"href":"https://api.spotify.com/v1/tracks/72zmwnbXjx9fMUjw3mbDSs","id":"72zmwnbXjx9fMUjw3mbDSs","name":"All We Ever Knew","popularity":71,"preview_url":"https://p.scdn.co/mp3-preview/562d2eaa1d85e12345410d31d54e73c952d80ada?cid=98f61fa98b0c4dd7afeaf4fc261363b6","track_number":1,"type":"track","uri":"spotify:track:72zmwnbXjx9fMUjw3mbDSs"},{"album":{"album_type":"single","artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"},"href":"https://api.spotify.com/v1/artists/3kjuyTCjPG1WMFCiyc5IuB","id":"3kjuyTCjPG1WMFCiyc5IuB","name":"Arcade Fire","type":"artist","uri":"spotify:artist:3kjuyTCjPG1WMFCiyc5IuB"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HK","HN","HU","ID","IE","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","SG","SK","SV","TR","TW","US","UY"],"external_urls":{"spotify":"https://open.spotify.com/album/2GBKkbr7I9m0f7nEpexIhO"},"href":"https://api.spotify.com/v1/albums/2GBKkbr7I9m0f7nEpexIhO","id":"2GBKkbr7I9m0f7nEpexIhO","images":[{"height":640,"url":"https://i.scdn.co/image/b82882a06ee3f80b08f382dade1fbc08af17d0ae","width":640},{"height":300,"url":"https://i.scdn.co/image/bc3ea8519167855f61df3e653cd9ab8e9985b5c4","width":300},{"height":64,"url":"https://i.scdn.co/image/d48c38af6cb0dc01fef764fedaca784d0bd85f9d","width":64}],"name":"Signs of Life","type":"album","uri":"spotify:album:2GBKkbr7I9m0f7nEpexIhO"},"artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"},"href":"https://api.spotify.com/v1/artists/3kjuyTCjPG1WMFCiyc5IuB","id":"3kjuyTCjPG1WMFCiyc5IuB","name":"Arcade Fire","type":"artist","uri":"spotify:artist:3kjuyTCjPG1WMFCiyc5IuB"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HK","HN","HU","ID","IE","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","SG","SK","SV","TR","TW","US","UY"],"disc_number":1,"duration_ms":276613,"explicit":false,"external_ids":{"isrc":"GBARL1700813"},"external_urls":{"spotify":"https://open.spotify.com/track/1o3vlEkPJCJM4CijiVJXx5"},"href":"https://api.spotify.com/v1/tracks/1o3vlEkPJCJM4CijiVJXx5","id":"1o3vlEkPJCJM4CijiVJXx5","name":"Signs of Life","popularity":68,"preview_url":"https://p.scdn.co/mp3-preview/dce440514c70a7171e219c16ea34f108c0784ee2?cid=98f61fa98b0c4dd7afeaf4fc261363b6","track_number":1,"type":"track","uri":"spotify:track:1o3vlEkPJCJM4CijiVJXx5"},{"album":{"album_type":"album","artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"},"href":"https://api.spotify.com/v1/artists/0n94vC3S9c3mb2HyNAOcjg","id":"0n94vC3S9c3mb2HyNAOcjg","name":"The Head and the Heart","type":"artist","uri":"spotify:artist:0n94vC3S9c3mb2HyNAOcjg"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HK","HN","HU","ID","IE","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","SE","SG","SK","SV","TR","TW","US","UY"],"external_urls":{"spotify":"https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"},"href":"https://api.spotify.com/v1/albums/0EFitK3T7hqin7iGMbpltM","id":"0EFitK3T7hqin7iGMbpltM","images":[{"height":640,"url":"https://i.scdn.co/image/207367ce988976b3e9d973c85a665d9be7b63525","width":640},{"height":300,"url":"https://i.scdn.co/image/48f61a3172c79c24ff32bcfe3aa1e45bade54cee","width":300},{"height":64,"url":"https://i.scdn.co/image/016549086a49df436855b68694a1986ae82cff96","width":64}],"name":"Signs of Light","type":"album","uri":"spotify:album:0EFitK3T7hqin7iGMbpltM"},"artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"},"href":"https://api.spotify.com/v1/artists/0n94vC3S9c3mb2HyNAOcjg","id":"0n94vC3S9c3mb2HyNAOcjg","name":"The Head and the Heart","type":"artist","uri":"spotify:artist:0n94vC3S9c3mb2HyNAOcjg"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HK","HN","HU","ID","IE","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","SE","SG","SK","SV","TR","TW","US","UY"],"disc_number":1,"duration_ms":240253,"explicit":false,"external_ids":{"isrc":"USWB11600770"},"external_urls":{"spotify":"https://open.spotify.com/track/5bAJhDTVCWVScr5Ev4LnB2"},"href":"https://api.spotify.com/v1/tracks/5bAJhDTVCWVScr5Ev4LnB2","id":"5bAJhDTVCWVScr5Ev4LnB2","name":"Rhythm & Blues","popularity":64,"preview_url":"https://p.scdn.co/mp3-preview/dec140ec36991eb79646f99fa0e2b02ea9aa4fa6?cid=98f61fa98b0c4dd7afeaf4fc261363b6","track_number":3,"type":"track","uri":"spotify:track:5bAJhDTVCWVScr5Ev4LnB2"},{"album":{"album_type":"album","artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"},"href":"https://api.spotify.com/v1/artists/3kjuyTCjPG1WMFCiyc5IuB","id":"3kjuyTCjPG1WMFCiyc5IuB","name":"Arcade Fire","type":"artist","uri":"spotify:artist:3kjuyTCjPG1WMFCiyc5IuB"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HK","HN","HU","ID","IE","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","SE","SG","SK","SV","TR","TW","US","UY"],"external_urls":{"spotify":"https://open.spotify.com/album/1DNojVW079FU9YnAMk3Cgr"},"href":"https://api.spotify.com/v1/albums/1DNojVW079FU9YnAMk3Cgr","id":"1DNojVW079FU9YnAMk3Cgr","images":[{"height":640,"url":"https://i.scdn.co/image/18ac0c80feb31410ad8bb006ff057adf09fc115e","width":640},{"height":300,"url":"https://i.scdn.co/image/3aabf0f2f1410651247cb57d36f8e974f412f50a","width":300},{"height":64,"url":"https://i.scdn.co/image/bdae076975dd73586d7ff2edd5282a680eec6a97","width":64}],"name":"Everything Now","type":"album","uri":"spotify:album:1DNojVW079FU9YnAMk3Cgr"},"artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"},"href":"https://api.spotify.com/v1/artists/3kjuyTCjPG1WMFCiyc5IuB","id":"3kjuyTCjPG1WMFCiyc5IuB","name":"Arcade Fire","type":"artist","uri":"spotify:artist:3kjuyTCjPG1WMFCiyc5IuB"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HK","HN","HU","ID","IE","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","SE","SG","SK","SV","TR","TW","US","UY"],"disc_number":1,"duration_ms":276613,"explicit":false,"external_ids":{"isrc":"GBARL1700813"},"external_urls":{"spotify":"https://open.spotify.com/track/1g1RmSl6D0I6m6MEtDvxYn"},"href":"https://api.spotify.com/v1/tracks/1g1RmSl6D0I6m6MEtDvxYn","id":"1g1RmSl6D0I6m6MEtDvxYn","name":"Signs of Life","popularity":62,"preview_url":"https://p.scdn.co/mp3-preview/dce440514c70a7171e219c16ea34f108c0784ee2?cid=98f61fa98b0c4dd7afeaf4fc261363b6","track_number":3,"type":"track","uri":"spotify:track:1g1RmSl6D0I6m6MEtDvxYn"},{"album":{"album_type":"album","artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"},"href":"https://api.spotify.com/v1/artists/4NiJW4q9ichVqL1aUsgGAN","id":"4NiJW4q9ichVqL1aUsgGAN","name":"A Day To Remember","type":"artist","uri":"spotify:artist:4NiJW4q9ichVqL1aUsgGAN"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HK","HN","HU","ID","IE","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","SE","SG","SK","SV","TR","TW","US","UY"],"external_urls":{"spotify":"https://open.spotify.com/album/2kllnMabPw1hYID0MhQRK0"},"href":"https://api.spotify.com/v1/albums/2kllnMabPw1hYID0MhQRK0","id":"2kllnMabPw1hYID0MhQRK0","images":[{"height":640,"url":"https://i.scdn.co/image/9e6ec09914b7533d0ba773ea3b640cc19b4fc355","width":640},{"height":300,"url":"https://i.scdn.co/image/4eae1f7f41b4d59164528bf6972063cdd7ba1a8f","width":300},{"height":64,"url":"https://i.scdn.co/image/a0fdb529fc9ec0881310f643b785e4bf7cfeb2a2","width":64}],"name":"What Separates Me From You","type":"album","uri":"spotify:album:2kllnMabPw1hYID0MhQRK0"},"artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"},"href":"https://api.spotify.com/v1/artists/4NiJW4q9ichVqL1aUsgGAN","id":"4NiJW4q9ichVqL1aUsgGAN","name":"A Day To Remember","type":"artist","uri":"spotify:artist:4NiJW4q9ichVqL1aUsgGAN"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HK","HN","HU","ID","IE","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","SE","SG","SK","SV","TR","TW","US","UY"],"disc_number":1,"duration_ms":197200,"explicit":false,"external_ids":{"isrc":"USVIC1060307"},"external_urls":{"spotify":"https://open.spotify.com/track/15qf0H31MChhqKr2zvejla"},"href":"https://api.spotify.com/v1/tracks/15qf0H31MChhqKr2zvejla","id":"15qf0H31MChhqKr2zvejla","name":"All Signs Point to Lauderdale","popularity":65,"preview_url":"https://p.scdn.co/mp3-preview/8f6848bad7badc987a08a373b7c0b38fe90d045c?cid=98f61fa98b0c4dd7afeaf4fc261363b6","track_number":7,"type":"track","uri":"spotify:track:15qf0H31MChhqKr2zvejla"},{"album":{"album_type":"album","artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"},"href":"https://api.spotify.com/v1/artists/0n94vC3S9c3mb2HyNAOcjg","id":"0n94vC3S9c3mb2HyNAOcjg","name":"The Head and the Heart","type":"artist","uri":"spotify:artist:0n94vC3S9c3mb2HyNAOcjg"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HK","HN","HU","ID","IE","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","SE","SG","SK","SV","TR","TW","US","UY"],"external_urls":{"spotify":"https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"},"href":"https://api.spotify.com/v1/albums/0EFitK3T7hqin7iGMbpltM","id":"0EFitK3T7hqin7iGMbpltM","images":[{"height":640,"url":"https://i.scdn.co/image/207367ce988976b3e9d973c85a665d9be7b63525","width":640},{"height":300,"url":"https://i.scdn.co/image/48f61a3172c79c24ff32bcfe3aa1e45bade54cee","width":300},{"height":64,"url":"https://i.scdn.co/image/016549086a49df436855b68694a1986ae82cff96","width":64}],"name":"Signs of Light","type":"album","uri":"spotify:album:0EFitK3T7hqin7iGMbpltM"},"artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"},"href":"https://api.spotify.com/v1/artists/0n94vC3S9c3mb2HyNAOcjg","id":"0n94vC3S9c3mb2HyNAOcjg","name":"The Head and the Heart","type":"artist","uri":"spotify:artist:0n94vC3S9c3mb2HyNAOcjg"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HK","HN","HU","ID","IE","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","SE","SG","SK","SV","TR","TW","US","UY"],"disc_number":1,"duration_ms":193786,"explicit":false,"external_ids":{"isrc":"USWB11600773"},"external_urls":{"spotify":"https://open.spotify.com/track/4HjEsfSpWo8gvZMr9SA3a1"},"href":"https://api.spotify.com/v1/tracks/4HjEsfSpWo8gvZMr9SA3a1","id":"4HjEsfSpWo8gvZMr9SA3a1","name":"Library Magic","popularity":63,"preview_url":"https://p.scdn.co/mp3-preview/960063fb3669f2215412032822e5a68f29a9202f?cid=98f61fa98b0c4dd7afeaf4fc261363b6","track_number":6,"type":"track","uri":"spotify:track:4HjEsfSpWo8gvZMr9SA3a1"},{"album":{"album_type":"album","artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"},"href":"https://api.spotify.com/v1/artists/2SrSdSvpminqmStGELCSNd","id":"2SrSdSvpminqmStGELCSNd","name":"Stormzy","type":"artist","uri":"spotify:artist:2SrSdSvpminqmStGELCSNd"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HK","HN","HU","ID","IE","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","SE","SG","SK","SV","TR","TW","US","UY"],"external_urls":{"spotify":"https://open.spotify.com/album/5fkFWJ9LZizXE4yPenNGuy"},"href":"https://api.spotify.com/v1/albums/5fkFWJ9LZizXE4yPenNGuy","id":"5fkFWJ9LZizXE4yPenNGuy","images":[{"height":640,"url":"https://i.scdn.co/image/93f820607e659d5091f14973d9c6adba51b4c6ef","width":640},{"height":300,"url":"https://i.scdn.co/image/c9ea517c3a800dc3059eb4b94fe0d97d8c086727","width":300},{"height":64,"url":"https://i.scdn.co/image/f01a838e19c06c9533fe42c12394103c031c2d03","width":64}],"name":"Gang Signs & Prayer","type":"album","uri":"spotify:album:5fkFWJ9LZizXE4yPenNGuy"},"artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"},"href":"https://api.spotify.com/v1/artists/2SrSdSvpminqmStGELCSNd","id":"2SrSdSvpminqmStGELCSNd","name":"Stormzy","type":"artist","uri":"spotify:artist:2SrSdSvpminqmStGELCSNd"},{"external_urls":{"spotify":"https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"},"href":"https://api.spotify.com/v1/artists/0cGUm45nv7Z6M6qdXYQGTX","id":"0cGUm45nv7Z6M6qdXYQGTX","name":"Kehlani","type":"artist","uri":"spotify:artist:0cGUm45nv7Z6M6qdXYQGTX"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HK","HN","HU","ID","IE","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","SE","SG","SK","SV","TR","TW","US","UY"],"disc_number":1,"duration_ms":349583,"explicit":true,"external_ids":{"isrc":"UKJ4A1700009"},"external_urls":{"spotify":"https://open.spotify.com/track/7MhomISA7KRK6U7KzeV06v"},"href":"https://api.spotify.com/v1/tracks/7MhomISA7KRK6U7KzeV06v","id":"7MhomISA7KRK6U7KzeV06v","name":"Cigarettes & Cush (feat. Kehlani)","popularity":70,"preview_url":"https://p.scdn.co/mp3-preview/af070f700fad2e8930e64d85848be98a03568a44?cid=98f61fa98b0c4dd7afeaf4fc261363b6","track_number":8,"type":"track","uri":"spotify:track:7MhomISA7KRK6U7KzeV06v"},{"album":{"album_type":"album","artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"},"href":"https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG","id":"7hJcb9fa4alzcOq3EaNPoG","name":"Snoop Dogg","type":"artist","uri":"spotify:artist:7hJcb9fa4alzcOq3EaNPoG"}],"available_markets":["CA","US"],"external_urls":{"spotify":"https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp"},"href":"https://api.spotify.com/v1/albums/797fkvAtk0iZvP1HHPCWbp","id":"797fkvAtk0iZvP1HHPCWbp","images":[{"height":638,"url":"https://i.scdn.co/image/b4ee644acbdcbfd9f6c75f8e098e32cd8e0bc5b2","width":640},{"height":299,"url":"https://i.scdn.co/image/986b782e6d2b781de59c4ddf752f924286259c43","width":300},{"height":64,"url":"https://i.scdn.co/image/35e4e4be5b123111a5c7d2ab0ce68752cc1a1e33","width":64}],"name":"R&G (Rhythm & Gangsta): The Masterpiece","type":"album","uri":"spotify:album:797fkvAtk0iZvP1HHPCWbp"},"artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"},"href":"https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG","id":"7hJcb9fa4alzcOq3EaNPoG","name":"Snoop Dogg","type":"artist","uri":"spotify:artist:7hJcb9fa4alzcOq3EaNPoG"},{"external_urls":{"spotify":"https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"},"href":"https://api.spotify.com/v1/artists/6CxZzQFUTM6AzgluGwtq5w","id":"6CxZzQFUTM6AzgluGwtq5w","name":"Charlie Wilson","type":"artist","uri":"spotify:artist:6CxZzQFUTM6AzgluGwtq5w"},{"external_urls":{"spotify":"https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"},"href":"https://api.spotify.com/v1/artists/31TPClRtHm23RisEBtV3X7","id":"31TPClRtHm23RisEBtV3X7","name":"Justin Timberlake","type":"artist","uri":"spotify:artist:31TPClRtHm23RisEBtV3X7"}],"available_markets":["CA","US"],"disc_number":1,"duration_ms":236480,"explicit":true,"external_ids":{"isrc":"USMC10400893"},"external_urls":{"spotify":"https://open.spotify.com/track/4HSAJpNocVNJbwbQvtCMdO"},"href":"https://api.spotify.com/v1/tracks/4HSAJpNocVNJbwbQvtCMdO","id":"4HSAJpNocVNJbwbQvtCMdO","name":"Signs","popularity":51,"preview_url":null,"track_number":16,"type":"track","uri":"spotify:track:4HSAJpNocVNJbwbQvtCMdO"},{"album":{"album_type":"album","artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"},"href":"https://api.spotify.com/v1/artists/0n94vC3S9c3mb2HyNAOcjg","id":"0n94vC3S9c3mb2HyNAOcjg","name":"The Head and the Heart","type":"artist","uri":"spotify:artist:0n94vC3S9c3mb2HyNAOcjg"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HK","HN","HU","ID","IE","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","SE","SG","SK","SV","TR","TW","US","UY"],"external_urls":{"spotify":"https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"},"href":"https://api.spotify.com/v1/albums/0EFitK3T7hqin7iGMbpltM","id":"0EFitK3T7hqin7iGMbpltM","images":[{"height":640,"url":"https://i.scdn.co/image/207367ce988976b3e9d973c85a665d9be7b63525","width":640},{"height":300,"url":"https://i.scdn.co/image/48f61a3172c79c24ff32bcfe3aa1e45bade54cee","width":300},{"height":64,"url":"https://i.scdn.co/image/016549086a49df436855b68694a1986ae82cff96","width":64}],"name":"Signs of Light","type":"album","uri":"spotify:album:0EFitK3T7hqin7iGMbpltM"},"artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"},"href":"https://api.spotify.com/v1/artists/0n94vC3S9c3mb2HyNAOcjg","id":"0n94vC3S9c3mb2HyNAOcjg","name":"The Head and the Heart","type":"artist","uri":"spotify:artist:0n94vC3S9c3mb2HyNAOcjg"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HK","HN","HU","ID","IE","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","SE","SG","SK","SV","TR","TW","US","UY"],"disc_number":1,"duration_ms":368746,"explicit":false,"external_ids":{"isrc":"USWB11600779"},"external_urls":{"spotify":"https://open.spotify.com/track/13KwrXEgb4lLzd0kP8Jiqf"},"href":"https://api.spotify.com/v1/tracks/13KwrXEgb4lLzd0kP8Jiqf","id":"13KwrXEgb4lLzd0kP8Jiqf","name":"Signs of Light","popularity":50,"preview_url":"https://p.scdn.co/mp3-preview/4ecdf66ab18ddad3f433fb93dc90e8f7e7c5e74a?cid=98f61fa98b0c4dd7afeaf4fc261363b6","track_number":13,"type":"track","uri":"spotify:track:13KwrXEgb4lLzd0kP8Jiqf"},{"album":{"album_type":"compilation","artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU"},"href":"https://api.spotify.com/v1/artists/0dgnITyIAN4NrmUVisvxHU","id":"0dgnITyIAN4NrmUVisvxHU","name":"Tesla","type":"artist","uri":"spotify:artist:0dgnITyIAN4NrmUVisvxHU"}],"available_markets":["CA","MX","US"],"external_urls":{"spotify":"https://open.spotify.com/album/2GQH4L2aMloYA4cWuaJXJi"},"href":"https://api.spotify.com/v1/albums/2GQH4L2aMloYA4cWuaJXJi","id":"2GQH4L2aMloYA4cWuaJXJi","images":[{"height":640,"url":"https://i.scdn.co/image/4d60bffc0b124d032c6a6d7ca11f8a8d0b21c53f","width":640},{"height":300,"url":"https://i.scdn.co/image/b032a4f2b243a90647839bd1d497390892c34bbb","width":300},{"height":64,"url":"https://i.scdn.co/image/93d2337e0e469e0f02bc968d6b712e9abdb3da27","width":64}],"name":"20th Century Masters: The Millennium Collection: Best of Tesla","type":"album","uri":"spotify:album:2GQH4L2aMloYA4cWuaJXJi"},"artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU"},"href":"https://api.spotify.com/v1/artists/0dgnITyIAN4NrmUVisvxHU","id":"0dgnITyIAN4NrmUVisvxHU","name":"Tesla","type":"artist","uri":"spotify:artist:0dgnITyIAN4NrmUVisvxHU"}],"available_markets":["CA","MX","US"],"disc_number":1,"duration_ms":194000,"explicit":true,"external_ids":{"isrc":"USGF19031105"},"external_urls":{"spotify":"https://open.spotify.com/track/6oYjESDcQAQrRh4SKMH7sW"},"href":"https://api.spotify.com/v1/tracks/6oYjESDcQAQrRh4SKMH7sW","id":"6oYjESDcQAQrRh4SKMH7sW","name":"Signs","popularity":49,"preview_url":null,"track_number":6,"type":"track","uri":"spotify:track:6oYjESDcQAQrRh4SKMH7sW"},{"album":{"album_type":"single","artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm"},"href":"https://api.spotify.com/v1/artists/2BHswvFd8tMBizVWGcAMLm","id":"2BHswvFd8tMBizVWGcAMLm","name":"Kurt Hugo Schneider","type":"artist","uri":"spotify:artist:2BHswvFd8tMBizVWGcAMLm"},{"external_urls":{"spotify":"https://open.spotify.com/artist/5wZea2jH6qM1cRkKLPZ3S1"},"href":"https://api.spotify.com/v1/artists/5wZea2jH6qM1cRkKLPZ3S1","id":"5wZea2jH6qM1cRkKLPZ3S1","name":"Kirsten Collins","type":"artist","uri":"spotify:artist:5wZea2jH6qM1cRkKLPZ3S1"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HK","HN","HU","ID","IE","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","SE","SG","SK","SV","TR","TW","US","UY"],"external_urls":{"spotify":"https://open.spotify.com/album/1DZtZurY0ZlECllViB0Mdh"},"href":"https://api.spotify.com/v1/albums/1DZtZurY0ZlECllViB0Mdh","id":"1DZtZurY0ZlECllViB0Mdh","images":[{"height":640,"url":"https://i.scdn.co/image/3c35d6c4796703ad3e328e7d7e639c10d596c14b","width":640},{"height":300,"url":"https://i.scdn.co/image/b2cef6e8e2b242b2ec7cd12bca90a80dd6415291","width":300},{"height":64,"url":"https://i.scdn.co/image/e3e13a88b7a6882e3699a6d9eb599b3e1f3156cd","width":64}],"name":"Signs","type":"album","uri":"spotify:album:1DZtZurY0ZlECllViB0Mdh"},"artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm"},"href":"https://api.spotify.com/v1/artists/2BHswvFd8tMBizVWGcAMLm","id":"2BHswvFd8tMBizVWGcAMLm","name":"Kurt Hugo Schneider","type":"artist","uri":"spotify:artist:2BHswvFd8tMBizVWGcAMLm"},{"external_urls":{"spotify":"https://open.spotify.com/artist/5wZea2jH6qM1cRkKLPZ3S1"},"href":"https://api.spotify.com/v1/artists/5wZea2jH6qM1cRkKLPZ3S1","id":"5wZea2jH6qM1cRkKLPZ3S1","name":"Kirsten Collins","type":"artist","uri":"spotify:artist:5wZea2jH6qM1cRkKLPZ3S1"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HK","HN","HU","ID","IE","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","SE","SG","SK","SV","TR","TW","US","UY"],"disc_number":1,"duration_ms":165719,"explicit":false,"external_ids":{"isrc":"GBDMT1700297"},"external_urls":{"spotify":"https://open.spotify.com/track/4iHmcXNqaWTVVacY0YZ77G"},"href":"https://api.spotify.com/v1/tracks/4iHmcXNqaWTVVacY0YZ77G","id":"4iHmcXNqaWTVVacY0YZ77G","name":"Signs","popularity":35,"preview_url":"https://p.scdn.co/mp3-preview/209c7d7a3ec0c19d3b7ed78302bee85b25b0aef4?cid=98f61fa98b0c4dd7afeaf4fc261363b6","track_number":1,"type":"track","uri":"spotify:track:4iHmcXNqaWTVVacY0YZ77G"},{"album":{"album_type":"single","artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"},"href":"https://api.spotify.com/v1/artists/3gIRvgZssIb9aiirIg0nI3","id":"3gIRvgZssIb9aiirIg0nI3","name":"Jeremy Zucker","type":"artist","uri":"spotify:artist:3gIRvgZssIb9aiirIg0nI3"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HK","HN","HU","ID","IE","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","SE","SG","SK","SV","TR","TW","US","UY"],"external_urls":{"spotify":"https://open.spotify.com/album/2RVSHq5dVrUurBy3Q8Icxb"},"href":"https://api.spotify.com/v1/albums/2RVSHq5dVrUurBy3Q8Icxb","id":"2RVSHq5dVrUurBy3Q8Icxb","images":[{"height":640,"url":"https://i.scdn.co/image/f91c46cacb4eab3e766327a3c454c52c5c39ea36","width":640},{"height":300,"url":"https://i.scdn.co/image/96418953507ac0e7e6cd165d2d00e432dca646c9","width":300},{"height":64,"url":"https://i.scdn.co/image/bfdce533468248652be9a7ff4b511fc6574ad12a","width":64}],"name":"Peace Signs","type":"album","uri":"spotify:album:2RVSHq5dVrUurBy3Q8Icxb"},"artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"},"href":"https://api.spotify.com/v1/artists/3gIRvgZssIb9aiirIg0nI3","id":"3gIRvgZssIb9aiirIg0nI3","name":"Jeremy Zucker","type":"artist","uri":"spotify:artist:3gIRvgZssIb9aiirIg0nI3"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HK","HN","HU","ID","IE","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","SE","SG","SK","SV","TR","TW","US","UY"],"disc_number":1,"duration_ms":166374,"explicit":true,"external_ids":{"isrc":"TCACL1697489"},"external_urls":{"spotify":"https://open.spotify.com/track/3RwBpLt72HlRo6Lb6WczGB"},"href":"https://api.spotify.com/v1/tracks/3RwBpLt72HlRo6Lb6WczGB","id":"3RwBpLt72HlRo6Lb6WczGB","name":"Peace Signs","popularity":50,"preview_url":"https://p.scdn.co/mp3-preview/3e6386cebaa4c691e10b6ff65c09b53ea7ae63ef?cid=98f61fa98b0c4dd7afeaf4fc261363b6","track_number":1,"type":"track","uri":"spotify:track:3RwBpLt72HlRo6Lb6WczGB"},{"album":{"album_type":"album","artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"},"href":"https://api.spotify.com/v1/artists/0n94vC3S9c3mb2HyNAOcjg","id":"0n94vC3S9c3mb2HyNAOcjg","name":"The Head and the Heart","type":"artist","uri":"spotify:artist:0n94vC3S9c3mb2HyNAOcjg"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HK","HN","HU","ID","IE","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","SE","SG","SK","SV","TR","TW","US","UY"],"external_urls":{"spotify":"https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"},"href":"https://api.spotify.com/v1/albums/0EFitK3T7hqin7iGMbpltM","id":"0EFitK3T7hqin7iGMbpltM","images":[{"height":640,"url":"https://i.scdn.co/image/207367ce988976b3e9d973c85a665d9be7b63525","width":640},{"height":300,"url":"https://i.scdn.co/image/48f61a3172c79c24ff32bcfe3aa1e45bade54cee","width":300},{"height":64,"url":"https://i.scdn.co/image/016549086a49df436855b68694a1986ae82cff96","width":64}],"name":"Signs of Light","type":"album","uri":"spotify:album:0EFitK3T7hqin7iGMbpltM"},"artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"},"href":"https://api.spotify.com/v1/artists/0n94vC3S9c3mb2HyNAOcjg","id":"0n94vC3S9c3mb2HyNAOcjg","name":"The Head and the Heart","type":"artist","uri":"spotify:artist:0n94vC3S9c3mb2HyNAOcjg"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HK","HN","HU","ID","IE","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","SE","SG","SK","SV","TR","TW","US","UY"],"disc_number":1,"duration_ms":252133,"explicit":false,"external_ids":{"isrc":"USWB11600775"},"external_urls":{"spotify":"https://open.spotify.com/track/028lsIzliUXufTSEIQi8Sx"},"href":"https://api.spotify.com/v1/tracks/028lsIzliUXufTSEIQi8Sx","id":"028lsIzliUXufTSEIQi8Sx","name":"Colors","popularity":54,"preview_url":"https://p.scdn.co/mp3-preview/096de5f881045294e5ad1e63b43603e6e3e7570f?cid=98f61fa98b0c4dd7afeaf4fc261363b6","track_number":8,"type":"track","uri":"spotify:track:028lsIzliUXufTSEIQi8Sx"},{"album":{"album_type":"album","artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"},"href":"https://api.spotify.com/v1/artists/7CajNmpbOovFoOoasH2HaY","id":"7CajNmpbOovFoOoasH2HaY","name":"Calvin Harris","type":"artist","uri":"spotify:artist:7CajNmpbOovFoOoasH2HaY"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HK","HN","HU","ID","IE","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","SE","SG","SK","SV","TR","TW","US","UY"],"external_urls":{"spotify":"https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"},"href":"https://api.spotify.com/v1/albums/48zisMeiXniWLzOQghbPqS","id":"48zisMeiXniWLzOQghbPqS","images":[{"height":640,"url":"https://i.scdn.co/image/35f57037a887e9b35037bd82eb23c84a69a28ab4","width":640},{"height":300,"url":"https://i.scdn.co/image/c749847cc06f557a2c55065cadd1727b55aff979","width":300},{"height":64,"url":"https://i.scdn.co/image/96f59eaa5bcb0d9ecbc13b325893b91360ba0db5","width":64}],"name":"Motion","type":"album","uri":"spotify:album:48zisMeiXniWLzOQghbPqS"},"artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"},"href":"https://api.spotify.com/v1/artists/7CajNmpbOovFoOoasH2HaY","id":"7CajNmpbOovFoOoasH2HaY","name":"Calvin Harris","type":"artist","uri":"spotify:artist:7CajNmpbOovFoOoasH2HaY"},{"external_urls":{"spotify":"https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"},"href":"https://api.spotify.com/v1/artists/0NIIxcxNHmOoyBx03SfTCD","id":"0NIIxcxNHmOoyBx03SfTCD","name":"Tinashe","type":"artist","uri":"spotify:artist:0NIIxcxNHmOoyBx03SfTCD"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HK","HN","HU","ID","IE","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","SE","SG","SK","SV","TR","TW","US","UY"],"disc_number":1,"duration_ms":236066,"explicit":true,"external_ids":{"isrc":"GBARL1401209"},"external_urls":{"spotify":"https://open.spotify.com/track/7sUrtg1AYRyrDECLqq6no9"},"href":"https://api.spotify.com/v1/tracks/7sUrtg1AYRyrDECLqq6no9","id":"7sUrtg1AYRyrDECLqq6no9","name":"Dollar Signs","popularity":56,"preview_url":"https://p.scdn.co/mp3-preview/48fdb8cb6449f129f34cc5938447d83d08a3863a?cid=98f61fa98b0c4dd7afeaf4fc261363b6","track_number":15,"type":"track","uri":"spotify:track:7sUrtg1AYRyrDECLqq6no9"},{"album":{"album_type":"album","artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"},"href":"https://api.spotify.com/v1/artists/0n94vC3S9c3mb2HyNAOcjg","id":"0n94vC3S9c3mb2HyNAOcjg","name":"The Head and the Heart","type":"artist","uri":"spotify:artist:0n94vC3S9c3mb2HyNAOcjg"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HK","HN","HU","ID","IE","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","SE","SG","SK","SV","TR","TW","US","UY"],"external_urls":{"spotify":"https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"},"href":"https://api.spotify.com/v1/albums/0EFitK3T7hqin7iGMbpltM","id":"0EFitK3T7hqin7iGMbpltM","images":[{"height":640,"url":"https://i.scdn.co/image/207367ce988976b3e9d973c85a665d9be7b63525","width":640},{"height":300,"url":"https://i.scdn.co/image/48f61a3172c79c24ff32bcfe3aa1e45bade54cee","width":300},{"height":64,"url":"https://i.scdn.co/image/016549086a49df436855b68694a1986ae82cff96","width":64}],"name":"Signs of Light","type":"album","uri":"spotify:album:0EFitK3T7hqin7iGMbpltM"},"artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"},"href":"https://api.spotify.com/v1/artists/0n94vC3S9c3mb2HyNAOcjg","id":"0n94vC3S9c3mb2HyNAOcjg","name":"The Head and the Heart","type":"artist","uri":"spotify:artist:0n94vC3S9c3mb2HyNAOcjg"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HK","HN","HU","ID","IE","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","SE","SG","SK","SV","TR","TW","US","UY"],"disc_number":1,"duration_ms":154173,"explicit":false,"external_ids":{"isrc":"USWB11600777"},"external_urls":{"spotify":"https://open.spotify.com/track/4BNBfgSjKSVTagFBvtst7s"},"href":"https://api.spotify.com/v1/tracks/4BNBfgSjKSVTagFBvtst7s","id":"4BNBfgSjKSVTagFBvtst7s","name":"I Don't Mind","popularity":53,"preview_url":"https://p.scdn.co/mp3-preview/086d38f4dbc6fcd568481e2542847a5644ef6c3c?cid=98f61fa98b0c4dd7afeaf4fc261363b6","track_number":11,"type":"track","uri":"spotify:track:4BNBfgSjKSVTagFBvtst7s"},{"album":{"album_type":"album","artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"},"href":"https://api.spotify.com/v1/artists/0n94vC3S9c3mb2HyNAOcjg","id":"0n94vC3S9c3mb2HyNAOcjg","name":"The Head and the Heart","type":"artist","uri":"spotify:artist:0n94vC3S9c3mb2HyNAOcjg"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HK","HN","HU","ID","IE","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","SE","SG","SK","SV","TR","TW","US","UY"],"external_urls":{"spotify":"https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"},"href":"https://api.spotify.com/v1/albums/0EFitK3T7hqin7iGMbpltM","id":"0EFitK3T7hqin7iGMbpltM","images":[{"height":640,"url":"https://i.scdn.co/image/207367ce988976b3e9d973c85a665d9be7b63525","width":640},{"height":300,"url":"https://i.scdn.co/image/48f61a3172c79c24ff32bcfe3aa1e45bade54cee","width":300},{"height":64,"url":"https://i.scdn.co/image/016549086a49df436855b68694a1986ae82cff96","width":64}],"name":"Signs of Light","type":"album","uri":"spotify:album:0EFitK3T7hqin7iGMbpltM"},"artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"},"href":"https://api.spotify.com/v1/artists/0n94vC3S9c3mb2HyNAOcjg","id":"0n94vC3S9c3mb2HyNAOcjg","name":"The Head and the Heart","type":"artist","uri":"spotify:artist:0n94vC3S9c3mb2HyNAOcjg"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HK","HN","HU","ID","IE","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","SE","SG","SK","SV","TR","TW","US","UY"],"disc_number":1,"duration_ms":236866,"explicit":false,"external_ids":{"isrc":"USWB11600769"},"external_urls":{"spotify":"https://open.spotify.com/track/7f5inCfL12gHegKR4PX1IH"},"href":"https://api.spotify.com/v1/tracks/7f5inCfL12gHegKR4PX1IH","id":"7f5inCfL12gHegKR4PX1IH","name":"City of Angels","popularity":53,"preview_url":"https://p.scdn.co/mp3-preview/edda6a4169429e7305e4c9b9d08e0057ea68128f?cid=98f61fa98b0c4dd7afeaf4fc261363b6","track_number":2,"type":"track","uri":"spotify:track:7f5inCfL12gHegKR4PX1IH"},{"album":{"album_type":"album","artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"},"href":"https://api.spotify.com/v1/artists/6vWDO969PvNqNYHIOW5v0m","id":"6vWDO969PvNqNYHIOW5v0m","name":"Beyoncé","type":"artist","uri":"spotify:artist:6vWDO969PvNqNYHIOW5v0m"}],"available_markets":["AD","AR","AU","BE","BG","BO","BR","CA","CL","CO","CR","CY","CZ","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HK","HN","HU","ID","IE","IS","IT","JP","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","SE","SG","SK","SV","TR","TW","US","UY"],"external_urls":{"spotify":"https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"},"href":"https://api.spotify.com/v1/albums/6oxVabMIqCMJRYN1GqR3Vf","id":"6oxVabMIqCMJRYN1GqR3Vf","images":[{"height":640,"url":"https://i.scdn.co/image/4f209f5fa9d4ee65215f0dcc5fb513a4119cef10","width":640},{"height":300,"url":"https://i.scdn.co/image/58ce427aaf12cf21f56be209216b0fb2ac0550f3","width":300},{"height":64,"url":"https://i.scdn.co/image/c41d22c0cca1d4789098c6f203c6acc50c19876c","width":64}],"name":"Dangerously In Love","type":"album","uri":"spotify:album:6oxVabMIqCMJRYN1GqR3Vf"},"artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"},"href":"https://api.spotify.com/v1/artists/6vWDO969PvNqNYHIOW5v0m","id":"6vWDO969PvNqNYHIOW5v0m","name":"Beyoncé","type":"artist","uri":"spotify:artist:6vWDO969PvNqNYHIOW5v0m"},{"external_urls":{"spotify":"https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"},"href":"https://api.spotify.com/v1/artists/2wIVse2owClT7go1WT98tk","id":"2wIVse2owClT7go1WT98tk","name":"Missy Elliott","type":"artist","uri":"spotify:artist:2wIVse2owClT7go1WT98tk"}],"available_markets":["AD","AR","AU","BE","BG","BO","BR","CA","CL","CO","CR","CY","CZ","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HK","HN","HU","ID","IE","IS","IT","JP","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","SE","SG","SK","SV","TR","TW","US","UY"],"disc_number":1,"duration_ms":298200,"explicit":false,"external_ids":{"isrc":"USSM10305421"},"external_urls":{"spotify":"https://open.spotify.com/track/3goUufQotOykzA3zLkPNyb"},"href":"https://api.spotify.com/v1/tracks/3goUufQotOykzA3zLkPNyb","id":"3goUufQotOykzA3zLkPNyb","name":"Signs","popularity":46,"preview_url":"https://p.scdn.co/mp3-preview/53e687b74f7e596949ae5fc6d98f76add53c56da?cid=98f61fa98b0c4dd7afeaf4fc261363b6","track_number":8,"type":"track","uri":"spotify:track:3goUufQotOykzA3zLkPNyb"},{"album":{"album_type":"album","artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn"},"href":"https://api.spotify.com/v1/artists/6ZoRg8NnEtVmtUhgCTSCrn","id":"6ZoRg8NnEtVmtUhgCTSCrn","name":"Nadia Reid","type":"artist","uri":"spotify:artist:6ZoRg8NnEtVmtUhgCTSCrn"}],"available_markets":["CA","MX","US"],"external_urls":{"spotify":"https://open.spotify.com/album/0eeWqSci9uLlAuTP0bXwLR"},"href":"https://api.spotify.com/v1/albums/0eeWqSci9uLlAuTP0bXwLR","id":"0eeWqSci9uLlAuTP0bXwLR","images":[{"height":640,"url":"https://i.scdn.co/image/f639171f325c2f6d68d872f281582e4d866e2279","width":640},{"height":300,"url":"https://i.scdn.co/image/be2c40fec7889c091fffc7eca3b17a36cdd324ad","width":300},{"height":64,"url":"https://i.scdn.co/image/1b66d6ab3a4108bdac70566b0e7592b085274ac3","width":64}],"name":"Listen to Formation, Look for the Signs","type":"album","uri":"spotify:album:0eeWqSci9uLlAuTP0bXwLR"},"artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn"},"href":"https://api.spotify.com/v1/artists/6ZoRg8NnEtVmtUhgCTSCrn","id":"6ZoRg8NnEtVmtUhgCTSCrn","name":"Nadia Reid","type":"artist","uri":"spotify:artist:6ZoRg8NnEtVmtUhgCTSCrn"}],"available_markets":["CA","MX","US"],"disc_number":1,"duration_ms":212816,"explicit":false,"external_ids":{"isrc":"USA2P1520296"},"external_urls":{"spotify":"https://open.spotify.com/track/43zbl1HtPGmdXktjOzRFXX"},"href":"https://api.spotify.com/v1/tracks/43zbl1HtPGmdXktjOzRFXX","id":"43zbl1HtPGmdXktjOzRFXX","name":"Call the Days","popularity":54,"preview_url":"https://p.scdn.co/mp3-preview/5bf8ab9d618f22e349123558fabe0f9a97e86f34?cid=98f61fa98b0c4dd7afeaf4fc261363b6","track_number":9,"type":"track","uri":"spotify:track:43zbl1HtPGmdXktjOzRFXX"},{"album":{"album_type":"album","artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"},"href":"https://api.spotify.com/v1/artists/0n94vC3S9c3mb2HyNAOcjg","id":"0n94vC3S9c3mb2HyNAOcjg","name":"The Head and the Heart","type":"artist","uri":"spotify:artist:0n94vC3S9c3mb2HyNAOcjg"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HK","HN","HU","ID","IE","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","SE","SG","SK","SV","TR","TW","US","UY"],"external_urls":{"spotify":"https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"},"href":"https://api.spotify.com/v1/albums/0EFitK3T7hqin7iGMbpltM","id":"0EFitK3T7hqin7iGMbpltM","images":[{"height":640,"url":"https://i.scdn.co/image/207367ce988976b3e9d973c85a665d9be7b63525","width":640},{"height":300,"url":"https://i.scdn.co/image/48f61a3172c79c24ff32bcfe3aa1e45bade54cee","width":300},{"height":64,"url":"https://i.scdn.co/image/016549086a49df436855b68694a1986ae82cff96","width":64}],"name":"Signs of Light","type":"album","uri":"spotify:album:0EFitK3T7hqin7iGMbpltM"},"artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"},"href":"https://api.spotify.com/v1/artists/0n94vC3S9c3mb2HyNAOcjg","id":"0n94vC3S9c3mb2HyNAOcjg","name":"The Head and the Heart","type":"artist","uri":"spotify:artist:0n94vC3S9c3mb2HyNAOcjg"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HK","HN","HU","ID","IE","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","SE","SG","SK","SV","TR","TW","US","UY"],"disc_number":1,"duration_ms":247506,"explicit":false,"external_ids":{"isrc":"USWB11600771"},"external_urls":{"spotify":"https://open.spotify.com/track/5Eioc2h0YdGVp3ah21nVdF"},"href":"https://api.spotify.com/v1/tracks/5Eioc2h0YdGVp3ah21nVdF","id":"5Eioc2h0YdGVp3ah21nVdF","name":"False Alarm","popularity":52,"preview_url":"https://p.scdn.co/mp3-preview/74d59d199395bfdc8e51fc5950d0bdfe10a210dc?cid=98f61fa98b0c4dd7afeaf4fc261363b6","track_number":4,"type":"track","uri":"spotify:track:5Eioc2h0YdGVp3ah21nVdF"}],"limit":20,"next":"https://api.spotify.com/v1/search?query=signs&type=track&offset=20&limit=20","offset":0,"previous":null,"total":13807}
+{
+    "href": "https://api.spotify.com/v1/search?query=hotline+bling&type=track&offset=0&limit=20",
+    "items": [
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                        "id": "3TVXtAsR1Inumwj472S9r4",
+                        "name": "Drake",
+                        "type": "artist",
+                        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+                    }
+                ],
+                "available_markets": [
+                    "CA",
+                    "MX",
+                    "US"
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+                },
+                "href": "https://api.spotify.com/v1/albums/40GMAhriYJRO1rsY4YdrZb",
+                "id": "40GMAhriYJRO1rsY4YdrZb",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/e73c706e842eb5233eab7afd3404218a2696d568",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/90f080afbec29a0c58509875a6dd59b3c380e353",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/260c2e74e67a15cf61ac72f8264cc6caec5f7a66",
+                        "width": 64
+                    }
+                ],
+                "name": "Views",
+                "type": "album",
+                "uri": "spotify:album:40GMAhriYJRO1rsY4YdrZb"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                    "id": "3TVXtAsR1Inumwj472S9r4",
+                    "name": "Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+                }
+            ],
+            "available_markets": [
+                "CA",
+                "MX",
+                "US"
+            ],
+            "disc_number": 1,
+            "duration_ms": 267066,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USCM51500238"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7"
+            },
+            "href": "https://api.spotify.com/v1/tracks/0wwPcA6wtMf6HUMpIRdeP7",
+            "id": "0wwPcA6wtMf6HUMpIRdeP7",
+            "name": "Hotline Bling",
+            "popularity": 73,
+            "preview_url": null,
+            "track_number": 20,
+            "type": "track",
+            "uri": "spotify:track:0wwPcA6wtMf6HUMpIRdeP7"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                        "id": "3TVXtAsR1Inumwj472S9r4",
+                        "name": "Drake",
+                        "type": "artist",
+                        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+                    }
+                ],
+                "available_markets": [
+                    "CA",
+                    "MX",
+                    "US"
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/0G1ffjfFuTUTVjDrVdLimH"
+                },
+                "href": "https://api.spotify.com/v1/albums/0G1ffjfFuTUTVjDrVdLimH",
+                "id": "0G1ffjfFuTUTVjDrVdLimH",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/e73c706e842eb5233eab7afd3404218a2696d568",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/90f080afbec29a0c58509875a6dd59b3c380e353",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/260c2e74e67a15cf61ac72f8264cc6caec5f7a66",
+                        "width": 64
+                    }
+                ],
+                "name": "Views",
+                "type": "album",
+                "uri": "spotify:album:0G1ffjfFuTUTVjDrVdLimH"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                    "id": "3TVXtAsR1Inumwj472S9r4",
+                    "name": "Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+                }
+            ],
+            "available_markets": [
+                "CA",
+                "MX",
+                "US"
+            ],
+            "disc_number": 1,
+            "duration_ms": 267066,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USCM51500238"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/1OAYKfE0YdrN7C1yLWaLJo"
+            },
+            "href": "https://api.spotify.com/v1/tracks/1OAYKfE0YdrN7C1yLWaLJo",
+            "id": "1OAYKfE0YdrN7C1yLWaLJo",
+            "name": "Hotline Bling",
+            "popularity": 66,
+            "preview_url": null,
+            "track_number": 20,
+            "type": "track",
+            "uri": "spotify:track:1OAYKfE0YdrN7C1yLWaLJo"
+        },
+        {
+            "album": {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5exS0bytCYdixgv02DaCm3",
+                        "id": "5exS0bytCYdixgv02DaCm3",
+                        "name": "William Singe",
+                        "type": "artist",
+                        "uri": "spotify:artist:5exS0bytCYdixgv02DaCm3"
+                    }
+                ],
+                "available_markets": [
+                    "AD",
+                    "AR",
+                    "AT",
+                    "AU",
+                    "BE",
+                    "BG",
+                    "BO",
+                    "BR",
+                    "CA",
+                    "CH",
+                    "CL",
+                    "CO",
+                    "CR",
+                    "CY",
+                    "CZ",
+                    "DE",
+                    "DK",
+                    "DO",
+                    "EC",
+                    "EE",
+                    "ES",
+                    "FI",
+                    "FR",
+                    "GB",
+                    "GR",
+                    "GT",
+                    "HK",
+                    "HN",
+                    "HU",
+                    "ID",
+                    "IE",
+                    "IS",
+                    "IT",
+                    "JP",
+                    "LI",
+                    "LT",
+                    "LU",
+                    "LV",
+                    "MC",
+                    "MT",
+                    "MX",
+                    "MY",
+                    "NI",
+                    "NL",
+                    "NO",
+                    "NZ",
+                    "PA",
+                    "PE",
+                    "PH",
+                    "PL",
+                    "PT",
+                    "PY",
+                    "SE",
+                    "SG",
+                    "SK",
+                    "SV",
+                    "TR",
+                    "TW",
+                    "US",
+                    "UY"
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/7gW99qzF1OvGrb99z67GsU"
+                },
+                "href": "https://api.spotify.com/v1/albums/7gW99qzF1OvGrb99z67GsU",
+                "id": "7gW99qzF1OvGrb99z67GsU",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/89a0a7fab43dc185df981f4a48ca19e4712e3be8",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/93624aa56c2518bffdbeac3047375a9a4f85938c",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/8d87c8d749eda7be9caba299bfe8262fad3141fc",
+                        "width": 64
+                    }
+                ],
+                "name": "Hotline Bling",
+                "type": "album",
+                "uri": "spotify:album:7gW99qzF1OvGrb99z67GsU"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5exS0bytCYdixgv02DaCm3",
+                    "id": "5exS0bytCYdixgv02DaCm3",
+                    "name": "William Singe",
+                    "type": "artist",
+                    "uri": "spotify:artist:5exS0bytCYdixgv02DaCm3"
+                }
+            ],
+            "available_markets": [
+                "AD",
+                "AR",
+                "AT",
+                "AU",
+                "BE",
+                "BG",
+                "BO",
+                "BR",
+                "CA",
+                "CH",
+                "CL",
+                "CO",
+                "CR",
+                "CY",
+                "CZ",
+                "DE",
+                "DK",
+                "DO",
+                "EC",
+                "EE",
+                "ES",
+                "FI",
+                "FR",
+                "GB",
+                "GR",
+                "GT",
+                "HK",
+                "HN",
+                "HU",
+                "ID",
+                "IE",
+                "IS",
+                "IT",
+                "JP",
+                "LI",
+                "LT",
+                "LU",
+                "LV",
+                "MC",
+                "MT",
+                "MX",
+                "MY",
+                "NI",
+                "NL",
+                "NO",
+                "NZ",
+                "PA",
+                "PE",
+                "PH",
+                "PL",
+                "PT",
+                "PY",
+                "SE",
+                "SG",
+                "SK",
+                "SV",
+                "TR",
+                "TW",
+                "US",
+                "UY"
+            ],
+            "disc_number": 1,
+            "duration_ms": 148271,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "TCACI1594042"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/4rXfsIM6P2EJZaUb0fnMMw"
+            },
+            "href": "https://api.spotify.com/v1/tracks/4rXfsIM6P2EJZaUb0fnMMw",
+            "id": "4rXfsIM6P2EJZaUb0fnMMw",
+            "name": "Hotline Bling",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/264ce74e826ee8f5a1beec495c556203399a73b2?cid=98f61fa98b0c4dd7afeaf4fc261363b6",
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:4rXfsIM6P2EJZaUb0fnMMw"
+        },
+        {
+            "album": {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3J28FLi8jjXtUGWf69cP7I",
+                        "id": "3J28FLi8jjXtUGWf69cP7I",
+                        "name": "Gardiner Sisters",
+                        "type": "artist",
+                        "uri": "spotify:artist:3J28FLi8jjXtUGWf69cP7I"
+                    }
+                ],
+                "available_markets": [
+                    "AD",
+                    "AR",
+                    "AT",
+                    "AU",
+                    "BE",
+                    "BG",
+                    "BO",
+                    "BR",
+                    "CA",
+                    "CH",
+                    "CL",
+                    "CO",
+                    "CR",
+                    "CY",
+                    "CZ",
+                    "DE",
+                    "DK",
+                    "DO",
+                    "EC",
+                    "EE",
+                    "ES",
+                    "FI",
+                    "FR",
+                    "GB",
+                    "GR",
+                    "GT",
+                    "HK",
+                    "HN",
+                    "HU",
+                    "ID",
+                    "IE",
+                    "IS",
+                    "IT",
+                    "JP",
+                    "LI",
+                    "LT",
+                    "LU",
+                    "LV",
+                    "MC",
+                    "MT",
+                    "MX",
+                    "MY",
+                    "NI",
+                    "NL",
+                    "NO",
+                    "NZ",
+                    "PA",
+                    "PE",
+                    "PH",
+                    "PL",
+                    "PT",
+                    "PY",
+                    "SE",
+                    "SG",
+                    "SK",
+                    "SV",
+                    "TR",
+                    "TW",
+                    "US",
+                    "UY"
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3di81g6eNLDd2pK0QYScJy"
+                },
+                "href": "https://api.spotify.com/v1/albums/3di81g6eNLDd2pK0QYScJy",
+                "id": "3di81g6eNLDd2pK0QYScJy",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/aff509324bff7ba02b93e4d7df7b867aa6e2acfc",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/738a33cd9cdf00927b5eb5675ed56b85a5accb49",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/1e9d76ab3ccaf70e75c7d32688bf4a40a2128e66",
+                        "width": 64
+                    }
+                ],
+                "name": "My Love / Hotline Bling",
+                "type": "album",
+                "uri": "spotify:album:3di81g6eNLDd2pK0QYScJy"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3J28FLi8jjXtUGWf69cP7I",
+                    "id": "3J28FLi8jjXtUGWf69cP7I",
+                    "name": "Gardiner Sisters",
+                    "type": "artist",
+                    "uri": "spotify:artist:3J28FLi8jjXtUGWf69cP7I"
+                }
+            ],
+            "available_markets": [
+                "AD",
+                "AR",
+                "AT",
+                "AU",
+                "BE",
+                "BG",
+                "BO",
+                "BR",
+                "CA",
+                "CH",
+                "CL",
+                "CO",
+                "CR",
+                "CY",
+                "CZ",
+                "DE",
+                "DK",
+                "DO",
+                "EC",
+                "EE",
+                "ES",
+                "FI",
+                "FR",
+                "GB",
+                "GR",
+                "GT",
+                "HK",
+                "HN",
+                "HU",
+                "ID",
+                "IE",
+                "IS",
+                "IT",
+                "JP",
+                "LI",
+                "LT",
+                "LU",
+                "LV",
+                "MC",
+                "MT",
+                "MX",
+                "MY",
+                "NI",
+                "NL",
+                "NO",
+                "NZ",
+                "PA",
+                "PE",
+                "PH",
+                "PL",
+                "PT",
+                "PY",
+                "SE",
+                "SG",
+                "SK",
+                "SV",
+                "TR",
+                "TW",
+                "US",
+                "UY"
+            ],
+            "disc_number": 1,
+            "duration_ms": 202130,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USE831558093"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/304Fl0f56eyOYyFum3TN9X"
+            },
+            "href": "https://api.spotify.com/v1/tracks/304Fl0f56eyOYyFum3TN9X",
+            "id": "304Fl0f56eyOYyFum3TN9X",
+            "name": "My Love / Hotline Bling",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/9b9f7447a45cd4b2ff6f7df55d342027c1df7e45?cid=98f61fa98b0c4dd7afeaf4fc261363b6",
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:304Fl0f56eyOYyFum3TN9X"
+        },
+        {
+            "album": {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0Kwf0zcciIFGLCKiqNcO6Q",
+                        "id": "0Kwf0zcciIFGLCKiqNcO6Q",
+                        "name": "SRNO",
+                        "type": "artist",
+                        "uri": "spotify:artist:0Kwf0zcciIFGLCKiqNcO6Q"
+                    }
+                ],
+                "available_markets": [
+                    "AD",
+                    "AR",
+                    "AT",
+                    "AU",
+                    "BE",
+                    "BG",
+                    "BO",
+                    "BR",
+                    "CA",
+                    "CH",
+                    "CL",
+                    "CO",
+                    "CR",
+                    "CY",
+                    "CZ",
+                    "DE",
+                    "DK",
+                    "DO",
+                    "EC",
+                    "EE",
+                    "ES",
+                    "FI",
+                    "FR",
+                    "GB",
+                    "GR",
+                    "GT",
+                    "HK",
+                    "HN",
+                    "HU",
+                    "ID",
+                    "IE",
+                    "IS",
+                    "IT",
+                    "JP",
+                    "LI",
+                    "LT",
+                    "LU",
+                    "LV",
+                    "MC",
+                    "MT",
+                    "MX",
+                    "MY",
+                    "NI",
+                    "NL",
+                    "NO",
+                    "NZ",
+                    "PA",
+                    "PE",
+                    "PH",
+                    "PL",
+                    "PT",
+                    "PY",
+                    "SE",
+                    "SG",
+                    "SK",
+                    "SV",
+                    "TR",
+                    "TW",
+                    "US",
+                    "UY"
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1iwGdRdfiOWULmprxkZnMD"
+                },
+                "href": "https://api.spotify.com/v1/albums/1iwGdRdfiOWULmprxkZnMD",
+                "id": "1iwGdRdfiOWULmprxkZnMD",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/5383ff088ce76ebf7cd2043a9e4a2662f6adf475",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/8db637eaecd9f2067a561888e9599de1b1ad794d",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/0ef8b2c7618bd7a257dbc1dc3a72d99d57ee6145",
+                        "width": 64
+                    }
+                ],
+                "name": "Hotline Bling",
+                "type": "album",
+                "uri": "spotify:album:1iwGdRdfiOWULmprxkZnMD"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0Kwf0zcciIFGLCKiqNcO6Q",
+                    "id": "0Kwf0zcciIFGLCKiqNcO6Q",
+                    "name": "SRNO",
+                    "type": "artist",
+                    "uri": "spotify:artist:0Kwf0zcciIFGLCKiqNcO6Q"
+                }
+            ],
+            "available_markets": [
+                "AD",
+                "AR",
+                "AT",
+                "AU",
+                "BE",
+                "BG",
+                "BO",
+                "BR",
+                "CA",
+                "CH",
+                "CL",
+                "CO",
+                "CR",
+                "CY",
+                "CZ",
+                "DE",
+                "DK",
+                "DO",
+                "EC",
+                "EE",
+                "ES",
+                "FI",
+                "FR",
+                "GB",
+                "GR",
+                "GT",
+                "HK",
+                "HN",
+                "HU",
+                "ID",
+                "IE",
+                "IS",
+                "IT",
+                "JP",
+                "LI",
+                "LT",
+                "LU",
+                "LV",
+                "MC",
+                "MT",
+                "MX",
+                "MY",
+                "NI",
+                "NL",
+                "NO",
+                "NZ",
+                "PA",
+                "PE",
+                "PH",
+                "PL",
+                "PT",
+                "PY",
+                "SE",
+                "SG",
+                "SK",
+                "SV",
+                "TR",
+                "TW",
+                "US",
+                "UY"
+            ],
+            "disc_number": 1,
+            "duration_ms": 175124,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "QM2PV1608990"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/6Y2c7nqkwa5n2vykfdwDIE"
+            },
+            "href": "https://api.spotify.com/v1/tracks/6Y2c7nqkwa5n2vykfdwDIE",
+            "id": "6Y2c7nqkwa5n2vykfdwDIE",
+            "name": "Hotline Bling",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/da63fa669ec84a4446134443fd3d52608c79bd9e?cid=98f61fa98b0c4dd7afeaf4fc261363b6",
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:6Y2c7nqkwa5n2vykfdwDIE"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6mU8ucezzms5I2kNH6HNlu",
+                        "id": "6mU8ucezzms5I2kNH6HNlu",
+                        "name": "Conor Maynard",
+                        "type": "artist",
+                        "uri": "spotify:artist:6mU8ucezzms5I2kNH6HNlu"
+                    }
+                ],
+                "available_markets": [
+                    "AD",
+                    "AR",
+                    "AT",
+                    "AU",
+                    "BE",
+                    "BG",
+                    "BO",
+                    "BR",
+                    "CA",
+                    "CH",
+                    "CL",
+                    "CO",
+                    "CR",
+                    "CY",
+                    "CZ",
+                    "DE",
+                    "DK",
+                    "DO",
+                    "EC",
+                    "EE",
+                    "ES",
+                    "FI",
+                    "FR",
+                    "GB",
+                    "GR",
+                    "GT",
+                    "HK",
+                    "HN",
+                    "HU",
+                    "ID",
+                    "IE",
+                    "IS",
+                    "IT",
+                    "JP",
+                    "LI",
+                    "LT",
+                    "LU",
+                    "LV",
+                    "MC",
+                    "MT",
+                    "MX",
+                    "MY",
+                    "NI",
+                    "NL",
+                    "NO",
+                    "NZ",
+                    "PA",
+                    "PE",
+                    "PH",
+                    "PL",
+                    "PT",
+                    "PY",
+                    "SE",
+                    "SG",
+                    "SK",
+                    "SV",
+                    "TR",
+                    "TW",
+                    "US",
+                    "UY"
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5jxXFBCxg9dCJhj1Ev8TNq"
+                },
+                "href": "https://api.spotify.com/v1/albums/5jxXFBCxg9dCJhj1Ev8TNq",
+                "id": "5jxXFBCxg9dCJhj1Ev8TNq",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/c181b4b4c21ad7332ac2c01a71b1182481b674f4",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/a2e7b5e2bc6354d1ad1d91b31e633f641cd560d1",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/7527ad7cb4e48d9bd9ffb2262a95a8ebbbfc9e4b",
+                        "width": 64
+                    }
+                ],
+                "name": "Covers",
+                "type": "album",
+                "uri": "spotify:album:5jxXFBCxg9dCJhj1Ev8TNq"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6mU8ucezzms5I2kNH6HNlu",
+                    "id": "6mU8ucezzms5I2kNH6HNlu",
+                    "name": "Conor Maynard",
+                    "type": "artist",
+                    "uri": "spotify:artist:6mU8ucezzms5I2kNH6HNlu"
+                }
+            ],
+            "available_markets": [
+                "AD",
+                "AR",
+                "AT",
+                "AU",
+                "BE",
+                "BG",
+                "BO",
+                "BR",
+                "CA",
+                "CH",
+                "CL",
+                "CO",
+                "CR",
+                "CY",
+                "CZ",
+                "DE",
+                "DK",
+                "DO",
+                "EC",
+                "EE",
+                "ES",
+                "FI",
+                "FR",
+                "GB",
+                "GR",
+                "GT",
+                "HK",
+                "HN",
+                "HU",
+                "ID",
+                "IE",
+                "IS",
+                "IT",
+                "JP",
+                "LI",
+                "LT",
+                "LU",
+                "LV",
+                "MC",
+                "MT",
+                "MX",
+                "MY",
+                "NI",
+                "NL",
+                "NO",
+                "NZ",
+                "PA",
+                "PE",
+                "PH",
+                "PL",
+                "PT",
+                "PY",
+                "SE",
+                "SG",
+                "SK",
+                "SV",
+                "TR",
+                "TW",
+                "US",
+                "UY"
+            ],
+            "disc_number": 1,
+            "duration_ms": 139000,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "GBAYE1601265"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/3qNdf4NMZclvCmerKJhEQn"
+            },
+            "href": "https://api.spotify.com/v1/tracks/3qNdf4NMZclvCmerKJhEQn",
+            "id": "3qNdf4NMZclvCmerKJhEQn",
+            "name": "Hotline Bling",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/034c6767a52c7c83b0224e89f5ef1776a19107c9?cid=98f61fa98b0c4dd7afeaf4fc261363b6",
+            "track_number": 11,
+            "type": "track",
+            "uri": "spotify:track:3qNdf4NMZclvCmerKJhEQn"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1Vvvx45Apu6dQqwuZQxtgW",
+                        "id": "1Vvvx45Apu6dQqwuZQxtgW",
+                        "name": "Kidz Bop Kids",
+                        "type": "artist",
+                        "uri": "spotify:artist:1Vvvx45Apu6dQqwuZQxtgW"
+                    }
+                ],
+                "available_markets": [
+                    "CA",
+                    "US"
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5wZgeat7Y8E8dQP1F6hz42"
+                },
+                "href": "https://api.spotify.com/v1/albums/5wZgeat7Y8E8dQP1F6hz42",
+                "id": "5wZgeat7Y8E8dQP1F6hz42",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/5a7e675f454f5eddb5cecbea183a1c16959e43a4",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/88b92fb76105566fb3052d91fdc49baed210f178",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/fb5f817374c56968ececb3d399c81fe526a0b61b",
+                        "width": 64
+                    }
+                ],
+                "name": "KIDZ BOP 31",
+                "type": "album",
+                "uri": "spotify:album:5wZgeat7Y8E8dQP1F6hz42"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1Vvvx45Apu6dQqwuZQxtgW",
+                    "id": "1Vvvx45Apu6dQqwuZQxtgW",
+                    "name": "Kidz Bop Kids",
+                    "type": "artist",
+                    "uri": "spotify:artist:1Vvvx45Apu6dQqwuZQxtgW"
+                }
+            ],
+            "available_markets": [
+                "CA",
+                "US"
+            ],
+            "disc_number": 1,
+            "duration_ms": 203773,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USRZO1539305"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/049n4nPLnB03qookoGEbbN"
+            },
+            "href": "https://api.spotify.com/v1/tracks/049n4nPLnB03qookoGEbbN",
+            "id": "049n4nPLnB03qookoGEbbN",
+            "name": "Hotline Bling",
+            "popularity": 41,
+            "preview_url": null,
+            "track_number": 5,
+            "type": "track",
+            "uri": "spotify:track:049n4nPLnB03qookoGEbbN"
+        },
+        {
+            "album": {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6nS5roXSAGhTGr34W6n7Et",
+                        "id": "6nS5roXSAGhTGr34W6n7Et",
+                        "name": "Disclosure",
+                        "type": "artist",
+                        "uri": "spotify:artist:6nS5roXSAGhTGr34W6n7Et"
+                    }
+                ],
+                "available_markets": [
+                    "CA",
+                    "MX",
+                    "US"
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6SdHxHCBiG6oqTCzIC0glc"
+                },
+                "href": "https://api.spotify.com/v1/albums/6SdHxHCBiG6oqTCzIC0glc",
+                "id": "6SdHxHCBiG6oqTCzIC0glc",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/839e7e0c3702836b64ba028c2a7e3d627f964852",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/9069abc60b736f3582fb478285466d1e59e8dab2",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/5cb01f914c4817ac8bde935eea53067574f19f8f",
+                        "width": 64
+                    }
+                ],
+                "name": "Caracal Live BBC Session",
+                "type": "album",
+                "uri": "spotify:album:6SdHxHCBiG6oqTCzIC0glc"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6nS5roXSAGhTGr34W6n7Et",
+                    "id": "6nS5roXSAGhTGr34W6n7Et",
+                    "name": "Disclosure",
+                    "type": "artist",
+                    "uri": "spotify:artist:6nS5roXSAGhTGr34W6n7Et"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2wY79sveU1sp5g7SokKOiI",
+                    "id": "2wY79sveU1sp5g7SokKOiI",
+                    "name": "Sam Smith",
+                    "type": "artist",
+                    "uri": "spotify:artist:2wY79sveU1sp5g7SokKOiI"
+                }
+            ],
+            "available_markets": [
+                "CA",
+                "MX",
+                "US"
+            ],
+            "disc_number": 1,
+            "duration_ms": 225642,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "GBCAD1500912"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/2IH6QhvxDESFBEAZifhc6s"
+            },
+            "href": "https://api.spotify.com/v1/tracks/2IH6QhvxDESFBEAZifhc6s",
+            "id": "2IH6QhvxDESFBEAZifhc6s",
+            "name": "Hotline Bling - Live From Maida Vale",
+            "popularity": 45,
+            "preview_url": null,
+            "track_number": 2,
+            "type": "track",
+            "uri": "spotify:track:2IH6QhvxDESFBEAZifhc6s"
+        },
+        {
+            "album": {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0x9UILtXoQpudn5SMzMjUq"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0x9UILtXoQpudn5SMzMjUq",
+                        "id": "0x9UILtXoQpudn5SMzMjUq",
+                        "name": "Glass Face",
+                        "type": "artist",
+                        "uri": "spotify:artist:0x9UILtXoQpudn5SMzMjUq"
+                    }
+                ],
+                "available_markets": [
+                    "AD",
+                    "AR",
+                    "AT",
+                    "AU",
+                    "BE",
+                    "BG",
+                    "BO",
+                    "BR",
+                    "CA",
+                    "CH",
+                    "CL",
+                    "CO",
+                    "CR",
+                    "CY",
+                    "CZ",
+                    "DE",
+                    "DK",
+                    "DO",
+                    "EC",
+                    "EE",
+                    "ES",
+                    "FI",
+                    "FR",
+                    "GB",
+                    "GR",
+                    "GT",
+                    "HK",
+                    "HN",
+                    "HU",
+                    "ID",
+                    "IE",
+                    "IS",
+                    "IT",
+                    "JP",
+                    "LI",
+                    "LT",
+                    "LU",
+                    "LV",
+                    "MC",
+                    "MT",
+                    "MX",
+                    "MY",
+                    "NI",
+                    "NL",
+                    "NO",
+                    "NZ",
+                    "PA",
+                    "PE",
+                    "PH",
+                    "PL",
+                    "PT",
+                    "PY",
+                    "SE",
+                    "SG",
+                    "SK",
+                    "SV",
+                    "TR",
+                    "TW",
+                    "US",
+                    "UY"
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4ntd6Pxaxc3RFGyOl7itO9"
+                },
+                "href": "https://api.spotify.com/v1/albums/4ntd6Pxaxc3RFGyOl7itO9",
+                "id": "4ntd6Pxaxc3RFGyOl7itO9",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ecba13ae1b1c93d21fa25ca5aba80b6feb3041f6",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/3edfd9417dc2644c15c50356c3b97b578f067c68",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/3ce8726457d89c7547df193eab0cc2511c3fdaed",
+                        "width": 64
+                    }
+                ],
+                "name": "Hotline Bling",
+                "type": "album",
+                "uri": "spotify:album:4ntd6Pxaxc3RFGyOl7itO9"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0x9UILtXoQpudn5SMzMjUq"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0x9UILtXoQpudn5SMzMjUq",
+                    "id": "0x9UILtXoQpudn5SMzMjUq",
+                    "name": "Glass Face",
+                    "type": "artist",
+                    "uri": "spotify:artist:0x9UILtXoQpudn5SMzMjUq"
+                }
+            ],
+            "available_markets": [
+                "AD",
+                "AR",
+                "AT",
+                "AU",
+                "BE",
+                "BG",
+                "BO",
+                "BR",
+                "CA",
+                "CH",
+                "CL",
+                "CO",
+                "CR",
+                "CY",
+                "CZ",
+                "DE",
+                "DK",
+                "DO",
+                "EC",
+                "EE",
+                "ES",
+                "FI",
+                "FR",
+                "GB",
+                "GR",
+                "GT",
+                "HK",
+                "HN",
+                "HU",
+                "ID",
+                "IE",
+                "IS",
+                "IT",
+                "JP",
+                "LI",
+                "LT",
+                "LU",
+                "LV",
+                "MC",
+                "MT",
+                "MX",
+                "MY",
+                "NI",
+                "NL",
+                "NO",
+                "NZ",
+                "PA",
+                "PE",
+                "PH",
+                "PL",
+                "PT",
+                "PY",
+                "SE",
+                "SG",
+                "SK",
+                "SV",
+                "TR",
+                "TW",
+                "US",
+                "UY"
+            ],
+            "disc_number": 1,
+            "duration_ms": 292430,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USE831519951"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/7fTiX7AKZ5NKWFvOpZ7NcR"
+            },
+            "href": "https://api.spotify.com/v1/tracks/7fTiX7AKZ5NKWFvOpZ7NcR",
+            "id": "7fTiX7AKZ5NKWFvOpZ7NcR",
+            "name": "Hotline Bling",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/d7b2b65ba019f30f519b0e030b7dd269eb7d4090?cid=98f61fa98b0c4dd7afeaf4fc261363b6",
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:7fTiX7AKZ5NKWFvOpZ7NcR"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6N1GBr0koYYU0W59ECgg5u"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6N1GBr0koYYU0W59ECgg5u",
+                        "id": "6N1GBr0koYYU0W59ECgg5u",
+                        "name": "The Theorist",
+                        "type": "artist",
+                        "uri": "spotify:artist:6N1GBr0koYYU0W59ECgg5u"
+                    }
+                ],
+                "available_markets": [
+                    "AD",
+                    "AR",
+                    "AT",
+                    "AU",
+                    "BE",
+                    "BG",
+                    "BO",
+                    "BR",
+                    "CA",
+                    "CH",
+                    "CL",
+                    "CO",
+                    "CR",
+                    "CY",
+                    "CZ",
+                    "DE",
+                    "DK",
+                    "DO",
+                    "EC",
+                    "EE",
+                    "ES",
+                    "FI",
+                    "FR",
+                    "GB",
+                    "GR",
+                    "GT",
+                    "HK",
+                    "HN",
+                    "HU",
+                    "ID",
+                    "IE",
+                    "IS",
+                    "IT",
+                    "JP",
+                    "LI",
+                    "LT",
+                    "LU",
+                    "LV",
+                    "MC",
+                    "MT",
+                    "MX",
+                    "MY",
+                    "NI",
+                    "NL",
+                    "NO",
+                    "NZ",
+                    "PA",
+                    "PE",
+                    "PH",
+                    "PL",
+                    "PT",
+                    "PY",
+                    "SE",
+                    "SG",
+                    "SK",
+                    "SV",
+                    "TR",
+                    "TW",
+                    "US",
+                    "UY"
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/7n1xq29UNkqIsKPn5AOhgY"
+                },
+                "href": "https://api.spotify.com/v1/albums/7n1xq29UNkqIsKPn5AOhgY",
+                "id": "7n1xq29UNkqIsKPn5AOhgY",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/604502c8208e74ef360a7606354033a30bb8494b",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/d72f58cbab7a4165b7c5ad64adac3fe6c9f8138d",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/8175b4350f91a6c3503f872c754558307ab99673",
+                        "width": 64
+                    }
+                ],
+                "name": "Piano Covers, Vol. 4",
+                "type": "album",
+                "uri": "spotify:album:7n1xq29UNkqIsKPn5AOhgY"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6N1GBr0koYYU0W59ECgg5u"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6N1GBr0koYYU0W59ECgg5u",
+                    "id": "6N1GBr0koYYU0W59ECgg5u",
+                    "name": "The Theorist",
+                    "type": "artist",
+                    "uri": "spotify:artist:6N1GBr0koYYU0W59ECgg5u"
+                }
+            ],
+            "available_markets": [
+                "AD",
+                "AR",
+                "AT",
+                "AU",
+                "BE",
+                "BG",
+                "BO",
+                "BR",
+                "CA",
+                "CH",
+                "CL",
+                "CO",
+                "CR",
+                "CY",
+                "CZ",
+                "DE",
+                "DK",
+                "DO",
+                "EC",
+                "EE",
+                "ES",
+                "FI",
+                "FR",
+                "GB",
+                "GR",
+                "GT",
+                "HK",
+                "HN",
+                "HU",
+                "ID",
+                "IE",
+                "IS",
+                "IT",
+                "JP",
+                "LI",
+                "LT",
+                "LU",
+                "LV",
+                "MC",
+                "MT",
+                "MX",
+                "MY",
+                "NI",
+                "NL",
+                "NO",
+                "NZ",
+                "PA",
+                "PE",
+                "PH",
+                "PL",
+                "PT",
+                "PY",
+                "SE",
+                "SG",
+                "SK",
+                "SV",
+                "TR",
+                "TW",
+                "US",
+                "UY"
+            ],
+            "disc_number": 1,
+            "duration_ms": 232228,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "TCACI1593089"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/7hrWRhCCAE7kBfVBkXLEdT"
+            },
+            "href": "https://api.spotify.com/v1/tracks/7hrWRhCCAE7kBfVBkXLEdT",
+            "id": "7hrWRhCCAE7kBfVBkXLEdT",
+            "name": "Hotline Bling (Piano Arrangement)",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/7af573ab1e33eee7aedba773c22bed3746e4d3ce?cid=98f61fa98b0c4dd7afeaf4fc261363b6",
+            "track_number": 3,
+            "type": "track",
+            "uri": "spotify:track:7hrWRhCCAE7kBfVBkXLEdT"
+        },
+        {
+            "album": {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/240FxWS65hkaE1yAiAh262"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/240FxWS65hkaE1yAiAh262",
+                        "id": "240FxWS65hkaE1yAiAh262",
+                        "name": "Deezle",
+                        "type": "artist",
+                        "uri": "spotify:artist:240FxWS65hkaE1yAiAh262"
+                    }
+                ],
+                "available_markets": [
+                    "AD",
+                    "AR",
+                    "AT",
+                    "AU",
+                    "BE",
+                    "BG",
+                    "BO",
+                    "BR",
+                    "CA",
+                    "CH",
+                    "CL",
+                    "CO",
+                    "CR",
+                    "CY",
+                    "CZ",
+                    "DE",
+                    "DK",
+                    "DO",
+                    "EC",
+                    "EE",
+                    "ES",
+                    "FI",
+                    "FR",
+                    "GB",
+                    "GR",
+                    "GT",
+                    "HK",
+                    "HN",
+                    "HU",
+                    "ID",
+                    "IE",
+                    "IS",
+                    "IT",
+                    "JP",
+                    "LI",
+                    "LT",
+                    "LU",
+                    "LV",
+                    "MC",
+                    "MT",
+                    "MX",
+                    "MY",
+                    "NI",
+                    "NL",
+                    "NO",
+                    "NZ",
+                    "PA",
+                    "PE",
+                    "PH",
+                    "PL",
+                    "PT",
+                    "PY",
+                    "SE",
+                    "SG",
+                    "SK",
+                    "SV",
+                    "TR",
+                    "TW",
+                    "US",
+                    "UY"
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/2s7Wpvd4ualnfwHw9N0CfI"
+                },
+                "href": "https://api.spotify.com/v1/albums/2s7Wpvd4ualnfwHw9N0CfI",
+                "id": "2s7Wpvd4ualnfwHw9N0CfI",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/6617e33c8d2ac86152fbd0f6d99737421bf4505a",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/8f11375a26f39544be4d62df3ea28edb3a1f0fba",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/2335d412855020eacf3927adc5c16f6cb9d663fc",
+                        "width": 64
+                    }
+                ],
+                "name": "Hotline Bling",
+                "type": "album",
+                "uri": "spotify:album:2s7Wpvd4ualnfwHw9N0CfI"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/240FxWS65hkaE1yAiAh262"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/240FxWS65hkaE1yAiAh262",
+                    "id": "240FxWS65hkaE1yAiAh262",
+                    "name": "Deezle",
+                    "type": "artist",
+                    "uri": "spotify:artist:240FxWS65hkaE1yAiAh262"
+                }
+            ],
+            "available_markets": [
+                "AD",
+                "AR",
+                "AT",
+                "AU",
+                "BE",
+                "BG",
+                "BO",
+                "BR",
+                "CA",
+                "CH",
+                "CL",
+                "CO",
+                "CR",
+                "CY",
+                "CZ",
+                "DE",
+                "DK",
+                "DO",
+                "EC",
+                "EE",
+                "ES",
+                "FI",
+                "FR",
+                "GB",
+                "GR",
+                "GT",
+                "HK",
+                "HN",
+                "HU",
+                "ID",
+                "IE",
+                "IS",
+                "IT",
+                "JP",
+                "LI",
+                "LT",
+                "LU",
+                "LV",
+                "MC",
+                "MT",
+                "MX",
+                "MY",
+                "NI",
+                "NL",
+                "NO",
+                "NZ",
+                "PA",
+                "PE",
+                "PH",
+                "PL",
+                "PT",
+                "PY",
+                "SE",
+                "SG",
+                "SK",
+                "SV",
+                "TR",
+                "TW",
+                "US",
+                "UY"
+            ],
+            "disc_number": 1,
+            "duration_ms": 226690,
+            "explicit": true,
+            "external_ids": {
+                "isrc": "QM4DW1694666"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/1MrAtpILfuEm3sJBMeNQM1"
+            },
+            "href": "https://api.spotify.com/v1/tracks/1MrAtpILfuEm3sJBMeNQM1",
+            "id": "1MrAtpILfuEm3sJBMeNQM1",
+            "name": "Hotline Bling",
+            "popularity": 31,
+            "preview_url": "https://p.scdn.co/mp3-preview/d70515bbe3b48377950ec02ac943cb194cda8801?cid=98f61fa98b0c4dd7afeaf4fc261363b6",
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:1MrAtpILfuEm3sJBMeNQM1"
+        },
+        {
+            "album": {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4KLJDAeYA0U86eGZqQv9Hy"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4KLJDAeYA0U86eGZqQv9Hy",
+                        "id": "4KLJDAeYA0U86eGZqQv9Hy",
+                        "name": "Seraphim",
+                        "type": "artist",
+                        "uri": "spotify:artist:4KLJDAeYA0U86eGZqQv9Hy"
+                    }
+                ],
+                "available_markets": [
+                    "AD",
+                    "AR",
+                    "AT",
+                    "AU",
+                    "BE",
+                    "BG",
+                    "BO",
+                    "BR",
+                    "CA",
+                    "CH",
+                    "CL",
+                    "CO",
+                    "CR",
+                    "CY",
+                    "CZ",
+                    "DE",
+                    "DK",
+                    "DO",
+                    "EC",
+                    "EE",
+                    "ES",
+                    "FI",
+                    "FR",
+                    "GB",
+                    "GR",
+                    "GT",
+                    "HK",
+                    "HN",
+                    "HU",
+                    "ID",
+                    "IE",
+                    "IS",
+                    "IT",
+                    "JP",
+                    "LI",
+                    "LT",
+                    "LU",
+                    "LV",
+                    "MC",
+                    "MT",
+                    "MX",
+                    "MY",
+                    "NI",
+                    "NL",
+                    "NO",
+                    "NZ",
+                    "PA",
+                    "PE",
+                    "PH",
+                    "PL",
+                    "PT",
+                    "PY",
+                    "SE",
+                    "SG",
+                    "SK",
+                    "SV",
+                    "TR",
+                    "TW",
+                    "US",
+                    "UY"
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/39CPIHUtO8NslkcSykhRtz"
+                },
+                "href": "https://api.spotify.com/v1/albums/39CPIHUtO8NslkcSykhRtz",
+                "id": "39CPIHUtO8NslkcSykhRtz",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/6705039cb90587d505901e103499bc99ef7f273a",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/34acde8bcd476a10198c3c03a130e7e469b53d2d",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/e8df9f7229b9ed72a65d139c14344ca6fa570d84",
+                        "width": 64
+                    }
+                ],
+                "name": "Hotline Bling",
+                "type": "album",
+                "uri": "spotify:album:39CPIHUtO8NslkcSykhRtz"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4KLJDAeYA0U86eGZqQv9Hy"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4KLJDAeYA0U86eGZqQv9Hy",
+                    "id": "4KLJDAeYA0U86eGZqQv9Hy",
+                    "name": "Seraphim",
+                    "type": "artist",
+                    "uri": "spotify:artist:4KLJDAeYA0U86eGZqQv9Hy"
+                }
+            ],
+            "available_markets": [
+                "AD",
+                "AR",
+                "AT",
+                "AU",
+                "BE",
+                "BG",
+                "BO",
+                "BR",
+                "CA",
+                "CH",
+                "CL",
+                "CO",
+                "CR",
+                "CY",
+                "CZ",
+                "DE",
+                "DK",
+                "DO",
+                "EC",
+                "EE",
+                "ES",
+                "FI",
+                "FR",
+                "GB",
+                "GR",
+                "GT",
+                "HK",
+                "HN",
+                "HU",
+                "ID",
+                "IE",
+                "IS",
+                "IT",
+                "JP",
+                "LI",
+                "LT",
+                "LU",
+                "LV",
+                "MC",
+                "MT",
+                "MX",
+                "MY",
+                "NI",
+                "NL",
+                "NO",
+                "NZ",
+                "PA",
+                "PE",
+                "PH",
+                "PL",
+                "PT",
+                "PY",
+                "SE",
+                "SG",
+                "SK",
+                "SV",
+                "TR",
+                "TW",
+                "US",
+                "UY"
+            ],
+            "disc_number": 1,
+            "duration_ms": 222616,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "TCACP1652708"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/73OwpIHzhe3RMF61jeReoc"
+            },
+            "href": "https://api.spotify.com/v1/tracks/73OwpIHzhe3RMF61jeReoc",
+            "id": "73OwpIHzhe3RMF61jeReoc",
+            "name": "Hotline Bling",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/9d6d13e20d18eb4e029f929facf17d48e0b46f41?cid=98f61fa98b0c4dd7afeaf4fc261363b6",
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:73OwpIHzhe3RMF61jeReoc"
+        },
+        {
+            "album": {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6kIgB5cLdAQ1ctIgs9lrkS"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6kIgB5cLdAQ1ctIgs9lrkS",
+                        "id": "6kIgB5cLdAQ1ctIgs9lrkS",
+                        "name": "Shaun Reynolds",
+                        "type": "artist",
+                        "uri": "spotify:artist:6kIgB5cLdAQ1ctIgs9lrkS"
+                    }
+                ],
+                "available_markets": [
+                    "AD",
+                    "AR",
+                    "AT",
+                    "AU",
+                    "BE",
+                    "BG",
+                    "BO",
+                    "BR",
+                    "CA",
+                    "CH",
+                    "CL",
+                    "CO",
+                    "CR",
+                    "CY",
+                    "CZ",
+                    "DE",
+                    "DK",
+                    "DO",
+                    "EC",
+                    "EE",
+                    "ES",
+                    "FI",
+                    "FR",
+                    "GB",
+                    "GR",
+                    "GT",
+                    "HK",
+                    "HN",
+                    "HU",
+                    "ID",
+                    "IE",
+                    "IS",
+                    "IT",
+                    "JP",
+                    "LI",
+                    "LT",
+                    "LU",
+                    "LV",
+                    "MC",
+                    "MT",
+                    "MX",
+                    "MY",
+                    "NI",
+                    "NL",
+                    "NO",
+                    "NZ",
+                    "PA",
+                    "PE",
+                    "PH",
+                    "PL",
+                    "PT",
+                    "PY",
+                    "SE",
+                    "SG",
+                    "SK",
+                    "SV",
+                    "TR",
+                    "TW",
+                    "US",
+                    "UY"
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6i3Ncy4Rox9sRnCzCjEKxt"
+                },
+                "href": "https://api.spotify.com/v1/albums/6i3Ncy4Rox9sRnCzCjEKxt",
+                "id": "6i3Ncy4Rox9sRnCzCjEKxt",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/3c6d9a4ccaa1aa1e7a09e89cba603f6570aab230",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/6e19443c29a801c0e1f632c0eb1de2279175bb93",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/36befe3ba4bb4434d4e93f261f197a44888f1a37",
+                        "width": 64
+                    }
+                ],
+                "name": "Hotline Bling (Remix)",
+                "type": "album",
+                "uri": "spotify:album:6i3Ncy4Rox9sRnCzCjEKxt"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6kIgB5cLdAQ1ctIgs9lrkS"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6kIgB5cLdAQ1ctIgs9lrkS",
+                    "id": "6kIgB5cLdAQ1ctIgs9lrkS",
+                    "name": "Shaun Reynolds",
+                    "type": "artist",
+                    "uri": "spotify:artist:6kIgB5cLdAQ1ctIgs9lrkS"
+                }
+            ],
+            "available_markets": [
+                "AD",
+                "AR",
+                "AT",
+                "AU",
+                "BE",
+                "BG",
+                "BO",
+                "BR",
+                "CA",
+                "CH",
+                "CL",
+                "CO",
+                "CR",
+                "CY",
+                "CZ",
+                "DE",
+                "DK",
+                "DO",
+                "EC",
+                "EE",
+                "ES",
+                "FI",
+                "FR",
+                "GB",
+                "GR",
+                "GT",
+                "HK",
+                "HN",
+                "HU",
+                "ID",
+                "IE",
+                "IS",
+                "IT",
+                "JP",
+                "LI",
+                "LT",
+                "LU",
+                "LV",
+                "MC",
+                "MT",
+                "MX",
+                "MY",
+                "NI",
+                "NL",
+                "NO",
+                "NZ",
+                "PA",
+                "PE",
+                "PH",
+                "PL",
+                "PT",
+                "PY",
+                "SE",
+                "SG",
+                "SK",
+                "SV",
+                "TR",
+                "TW",
+                "US",
+                "UY"
+            ],
+            "disc_number": 1,
+            "duration_ms": 208000,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USE831516074"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/7yiOVpnaw1AjiqyOvREAD7"
+            },
+            "href": "https://api.spotify.com/v1/tracks/7yiOVpnaw1AjiqyOvREAD7",
+            "id": "7yiOVpnaw1AjiqyOvREAD7",
+            "name": "Hotline Bling (Remix)",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/9e14d37205ae826d76faf2dfe81263b584ad4acb?cid=98f61fa98b0c4dd7afeaf4fc261363b6",
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:7yiOVpnaw1AjiqyOvREAD7"
+        },
+        {
+            "album": {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/14zUHaJZo1mnYtn6IBRaRP",
+                        "id": "14zUHaJZo1mnYtn6IBRaRP",
+                        "name": "Justin Quiles",
+                        "type": "artist",
+                        "uri": "spotify:artist:14zUHaJZo1mnYtn6IBRaRP"
+                    }
+                ],
+                "available_markets": [
+                    "AD",
+                    "AR",
+                    "AT",
+                    "AU",
+                    "BE",
+                    "BG",
+                    "BO",
+                    "BR",
+                    "CA",
+                    "CH",
+                    "CL",
+                    "CO",
+                    "CR",
+                    "CY",
+                    "CZ",
+                    "DE",
+                    "DK",
+                    "DO",
+                    "EC",
+                    "EE",
+                    "ES",
+                    "FI",
+                    "FR",
+                    "GB",
+                    "GR",
+                    "GT",
+                    "HK",
+                    "HN",
+                    "HU",
+                    "ID",
+                    "IE",
+                    "IS",
+                    "IT",
+                    "JP",
+                    "LI",
+                    "LT",
+                    "LU",
+                    "LV",
+                    "MC",
+                    "MT",
+                    "MX",
+                    "MY",
+                    "NI",
+                    "NL",
+                    "NO",
+                    "NZ",
+                    "PA",
+                    "PE",
+                    "PH",
+                    "PL",
+                    "PT",
+                    "PY",
+                    "SE",
+                    "SG",
+                    "SK",
+                    "SV",
+                    "TR",
+                    "TW",
+                    "US",
+                    "UY"
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6g078g3LJxxFHX4jSGHY3H"
+                },
+                "href": "https://api.spotify.com/v1/albums/6g078g3LJxxFHX4jSGHY3H",
+                "id": "6g078g3LJxxFHX4jSGHY3H",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/a186ecffbeb064bfb9938c339567023eff195983",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/e58567be7c44f12d9f269e6ee27b56db992c6b36",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/afccbbbd8e933ee3229e09123637446babaf099d",
+                        "width": 64
+                    }
+                ],
+                "name": "Hotline Bling (Spanish Remix)",
+                "type": "album",
+                "uri": "spotify:album:6g078g3LJxxFHX4jSGHY3H"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/14zUHaJZo1mnYtn6IBRaRP",
+                    "id": "14zUHaJZo1mnYtn6IBRaRP",
+                    "name": "Justin Quiles",
+                    "type": "artist",
+                    "uri": "spotify:artist:14zUHaJZo1mnYtn6IBRaRP"
+                }
+            ],
+            "available_markets": [
+                "AD",
+                "AR",
+                "AT",
+                "AU",
+                "BE",
+                "BG",
+                "BO",
+                "BR",
+                "CA",
+                "CH",
+                "CL",
+                "CO",
+                "CR",
+                "CY",
+                "CZ",
+                "DE",
+                "DK",
+                "DO",
+                "EC",
+                "EE",
+                "ES",
+                "FI",
+                "FR",
+                "GB",
+                "GR",
+                "GT",
+                "HK",
+                "HN",
+                "HU",
+                "ID",
+                "IE",
+                "IS",
+                "IT",
+                "JP",
+                "LI",
+                "LT",
+                "LU",
+                "LV",
+                "MC",
+                "MT",
+                "MX",
+                "MY",
+                "NI",
+                "NL",
+                "NO",
+                "NZ",
+                "PA",
+                "PE",
+                "PH",
+                "PL",
+                "PT",
+                "PY",
+                "SE",
+                "SG",
+                "SK",
+                "SV",
+                "TR",
+                "TW",
+                "US",
+                "UY"
+            ],
+            "disc_number": 1,
+            "duration_ms": 245568,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USDXS1500191"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/2FT8hKMPzL1AcsrxuWn3MA"
+            },
+            "href": "https://api.spotify.com/v1/tracks/2FT8hKMPzL1AcsrxuWn3MA",
+            "id": "2FT8hKMPzL1AcsrxuWn3MA",
+            "name": "Hotline Bling - Spanish Remix",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/4e834bf01be4409389439d2c28722c0474470f4d?cid=98f61fa98b0c4dd7afeaf4fc261363b6",
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:2FT8hKMPzL1AcsrxuWn3MA"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6viAheLq9WpiZXRDCvHt7l"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6viAheLq9WpiZXRDCvHt7l",
+                        "id": "6viAheLq9WpiZXRDCvHt7l",
+                        "name": "Chingo Bling, DJ Taco",
+                        "type": "artist",
+                        "uri": "spotify:artist:6viAheLq9WpiZXRDCvHt7l"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7uWSNqvFk0TnPO9zKbzLI5"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7uWSNqvFk0TnPO9zKbzLI5",
+                        "id": "7uWSNqvFk0TnPO9zKbzLI5",
+                        "name": "Chingo Bling",
+                        "type": "artist",
+                        "uri": "spotify:artist:7uWSNqvFk0TnPO9zKbzLI5"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1n5zmcIuqHceJQMbbfOECb"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1n5zmcIuqHceJQMbbfOECb",
+                        "id": "1n5zmcIuqHceJQMbbfOECb",
+                        "name": "Dj Taco",
+                        "type": "artist",
+                        "uri": "spotify:artist:1n5zmcIuqHceJQMbbfOECb"
+                    }
+                ],
+                "available_markets": [
+                    "AD",
+                    "AR",
+                    "AT",
+                    "AU",
+                    "BE",
+                    "BG",
+                    "BO",
+                    "BR",
+                    "CA",
+                    "CH",
+                    "CL",
+                    "CO",
+                    "CR",
+                    "CY",
+                    "CZ",
+                    "DE",
+                    "DK",
+                    "DO",
+                    "EC",
+                    "EE",
+                    "ES",
+                    "FI",
+                    "FR",
+                    "GB",
+                    "GR",
+                    "GT",
+                    "HK",
+                    "HN",
+                    "HU",
+                    "ID",
+                    "IE",
+                    "IS",
+                    "IT",
+                    "JP",
+                    "LI",
+                    "LT",
+                    "LU",
+                    "LV",
+                    "MC",
+                    "MT",
+                    "MX",
+                    "MY",
+                    "NI",
+                    "NL",
+                    "NO",
+                    "NZ",
+                    "PA",
+                    "PE",
+                    "PH",
+                    "PL",
+                    "PT",
+                    "PY",
+                    "SE",
+                    "SG",
+                    "SK",
+                    "SV",
+                    "TR",
+                    "TW",
+                    "US",
+                    "UY"
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1dSox6rWqipJxNcxdjx9Uq"
+                },
+                "href": "https://api.spotify.com/v1/albums/1dSox6rWqipJxNcxdjx9Uq",
+                "id": "1dSox6rWqipJxNcxdjx9Uq",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/1759f4e1088d8d37712920b52384afae83ec5140",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/329705f35be55844c619288bdf87c88e8c71fdcc",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/e48f27a64a69aa0c8c963db268ee62fe24709405",
+                        "width": 64
+                    }
+                ],
+                "name": "Dirty Horchata",
+                "type": "album",
+                "uri": "spotify:album:1dSox6rWqipJxNcxdjx9Uq"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7uWSNqvFk0TnPO9zKbzLI5"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7uWSNqvFk0TnPO9zKbzLI5",
+                    "id": "7uWSNqvFk0TnPO9zKbzLI5",
+                    "name": "Chingo Bling",
+                    "type": "artist",
+                    "uri": "spotify:artist:7uWSNqvFk0TnPO9zKbzLI5"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1n5zmcIuqHceJQMbbfOECb"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1n5zmcIuqHceJQMbbfOECb",
+                    "id": "1n5zmcIuqHceJQMbbfOECb",
+                    "name": "Dj Taco",
+                    "type": "artist",
+                    "uri": "spotify:artist:1n5zmcIuqHceJQMbbfOECb"
+                }
+            ],
+            "available_markets": [
+                "AD",
+                "AR",
+                "AT",
+                "AU",
+                "BE",
+                "BG",
+                "BO",
+                "BR",
+                "CA",
+                "CH",
+                "CL",
+                "CO",
+                "CR",
+                "CY",
+                "CZ",
+                "DE",
+                "DK",
+                "DO",
+                "EC",
+                "EE",
+                "ES",
+                "FI",
+                "FR",
+                "GB",
+                "GR",
+                "GT",
+                "HK",
+                "HN",
+                "HU",
+                "ID",
+                "IE",
+                "IS",
+                "IT",
+                "JP",
+                "LI",
+                "LT",
+                "LU",
+                "LV",
+                "MC",
+                "MT",
+                "MX",
+                "MY",
+                "NI",
+                "NL",
+                "NO",
+                "NZ",
+                "PA",
+                "PE",
+                "PH",
+                "PL",
+                "PT",
+                "PY",
+                "SE",
+                "SG",
+                "SK",
+                "SV",
+                "TR",
+                "TW",
+                "US",
+                "UY"
+            ],
+            "disc_number": 1,
+            "duration_ms": 128052,
+            "explicit": true,
+            "external_ids": {
+                "isrc": "USXQS1616223"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/3cn46ksC6ZRvHnKWPQujs0"
+            },
+            "href": "https://api.spotify.com/v1/tracks/3cn46ksC6ZRvHnKWPQujs0",
+            "id": "3cn46ksC6ZRvHnKWPQujs0",
+            "name": "Hotline Bling",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/1616f8583531b019354bd7df83c880735b031465?cid=98f61fa98b0c4dd7afeaf4fc261363b6",
+            "track_number": 7,
+            "type": "track",
+            "uri": "spotify:track:3cn46ksC6ZRvHnKWPQujs0"
+        },
+        {
+            "album": {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0FcC38n7nTB9YS1xhFOKDX"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0FcC38n7nTB9YS1xhFOKDX",
+                        "id": "0FcC38n7nTB9YS1xhFOKDX",
+                        "name": "Savannah Outen",
+                        "type": "artist",
+                        "uri": "spotify:artist:0FcC38n7nTB9YS1xhFOKDX"
+                    }
+                ],
+                "available_markets": [
+                    "AD",
+                    "AR",
+                    "AT",
+                    "AU",
+                    "BE",
+                    "BG",
+                    "BO",
+                    "BR",
+                    "CA",
+                    "CH",
+                    "CL",
+                    "CO",
+                    "CR",
+                    "CY",
+                    "CZ",
+                    "DE",
+                    "DK",
+                    "DO",
+                    "EC",
+                    "EE",
+                    "ES",
+                    "FI",
+                    "FR",
+                    "GB",
+                    "GR",
+                    "GT",
+                    "HK",
+                    "HN",
+                    "HU",
+                    "ID",
+                    "IE",
+                    "IS",
+                    "IT",
+                    "JP",
+                    "LI",
+                    "LT",
+                    "LU",
+                    "LV",
+                    "MC",
+                    "MT",
+                    "MX",
+                    "MY",
+                    "NI",
+                    "NL",
+                    "NO",
+                    "NZ",
+                    "PA",
+                    "PE",
+                    "PH",
+                    "PL",
+                    "PT",
+                    "PY",
+                    "SE",
+                    "SG",
+                    "SK",
+                    "SV",
+                    "TR",
+                    "TW",
+                    "US",
+                    "UY"
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4Fs1MXZmBGOlqvzHLtZpss"
+                },
+                "href": "https://api.spotify.com/v1/albums/4Fs1MXZmBGOlqvzHLtZpss",
+                "id": "4Fs1MXZmBGOlqvzHLtZpss",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/9e3bc71ded34c763ad12de5491674c85f582d37b",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/d247be6cadaedefbac6893c51b499c49cf24f184",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/f3c0978f70b6cdac964a9995a4ca493129976a15",
+                        "width": 64
+                    }
+                ],
+                "name": "Hotline Bling",
+                "type": "album",
+                "uri": "spotify:album:4Fs1MXZmBGOlqvzHLtZpss"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0FcC38n7nTB9YS1xhFOKDX"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0FcC38n7nTB9YS1xhFOKDX",
+                    "id": "0FcC38n7nTB9YS1xhFOKDX",
+                    "name": "Savannah Outen",
+                    "type": "artist",
+                    "uri": "spotify:artist:0FcC38n7nTB9YS1xhFOKDX"
+                }
+            ],
+            "available_markets": [
+                "AD",
+                "AR",
+                "AT",
+                "AU",
+                "BE",
+                "BG",
+                "BO",
+                "BR",
+                "CA",
+                "CH",
+                "CL",
+                "CO",
+                "CR",
+                "CY",
+                "CZ",
+                "DE",
+                "DK",
+                "DO",
+                "EC",
+                "EE",
+                "ES",
+                "FI",
+                "FR",
+                "GB",
+                "GR",
+                "GT",
+                "HK",
+                "HN",
+                "HU",
+                "ID",
+                "IE",
+                "IS",
+                "IT",
+                "JP",
+                "LI",
+                "LT",
+                "LU",
+                "LV",
+                "MC",
+                "MT",
+                "MX",
+                "MY",
+                "NI",
+                "NL",
+                "NO",
+                "NZ",
+                "PA",
+                "PE",
+                "PH",
+                "PL",
+                "PT",
+                "PY",
+                "SE",
+                "SG",
+                "SK",
+                "SV",
+                "TR",
+                "TW",
+                "US",
+                "UY"
+            ],
+            "disc_number": 1,
+            "duration_ms": 186292,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USE831515496"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/5ShKMfnKenQkDxGEejFi2B"
+            },
+            "href": "https://api.spotify.com/v1/tracks/5ShKMfnKenQkDxGEejFi2B",
+            "id": "5ShKMfnKenQkDxGEejFi2B",
+            "name": "Hotline Bling",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/ba84d8d59d41f44be9170cec6125aad9022ed2d5?cid=98f61fa98b0c4dd7afeaf4fc261363b6",
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:5ShKMfnKenQkDxGEejFi2B"
+        },
+        {
+            "album": {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3lDpdwM8KILepMHqBWUhIA",
+                        "id": "3lDpdwM8KILepMHqBWUhIA",
+                        "name": "The Struts",
+                        "type": "artist",
+                        "uri": "spotify:artist:3lDpdwM8KILepMHqBWUhIA"
+                    }
+                ],
+                "available_markets": [
+                    "CA",
+                    "MX",
+                    "US"
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/28Lb8hyu34kfZRNI1SBHwC"
+                },
+                "href": "https://api.spotify.com/v1/albums/28Lb8hyu34kfZRNI1SBHwC",
+                "id": "28Lb8hyu34kfZRNI1SBHwC",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/2e4949e85962b6f32cf09349e90f080a06c31a2c",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/7d54f94fafe08260311b4842065a8c7e283eb168",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/7d695e79e5ceeb66c18899c852d9f0ccd2152660",
+                        "width": 64
+                    }
+                ],
+                "name": "Live And Unplugged",
+                "type": "album",
+                "uri": "spotify:album:28Lb8hyu34kfZRNI1SBHwC"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3lDpdwM8KILepMHqBWUhIA",
+                    "id": "3lDpdwM8KILepMHqBWUhIA",
+                    "name": "The Struts",
+                    "type": "artist",
+                    "uri": "spotify:artist:3lDpdwM8KILepMHqBWUhIA"
+                }
+            ],
+            "available_markets": [
+                "CA",
+                "MX",
+                "US"
+            ],
+            "disc_number": 1,
+            "duration_ms": 269978,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USUM71700607"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/4d9tA3nQw8BxnBwlUEwQNI"
+            },
+            "href": "https://api.spotify.com/v1/tracks/4d9tA3nQw8BxnBwlUEwQNI",
+            "id": "4d9tA3nQw8BxnBwlUEwQNI",
+            "name": "I Always Knew/Hotline Bling - Live / Acoustic",
+            "popularity": 40,
+            "preview_url": null,
+            "track_number": 5,
+            "type": "track",
+            "uri": "spotify:track:4d9tA3nQw8BxnBwlUEwQNI"
+        },
+        {
+            "album": {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/09kCHZp9iFO2FJNb9lR6G5",
+                        "id": "09kCHZp9iFO2FJNb9lR6G5",
+                        "name": "Megan Davies",
+                        "type": "artist",
+                        "uri": "spotify:artist:09kCHZp9iFO2FJNb9lR6G5"
+                    }
+                ],
+                "available_markets": [
+                    "AD",
+                    "AR",
+                    "AT",
+                    "AU",
+                    "BE",
+                    "BG",
+                    "BO",
+                    "BR",
+                    "CA",
+                    "CH",
+                    "CL",
+                    "CO",
+                    "CR",
+                    "CY",
+                    "CZ",
+                    "DE",
+                    "DK",
+                    "DO",
+                    "EC",
+                    "EE",
+                    "ES",
+                    "FI",
+                    "FR",
+                    "GB",
+                    "GR",
+                    "GT",
+                    "HK",
+                    "HN",
+                    "HU",
+                    "ID",
+                    "IE",
+                    "IS",
+                    "IT",
+                    "JP",
+                    "LI",
+                    "LT",
+                    "LU",
+                    "LV",
+                    "MC",
+                    "MT",
+                    "MX",
+                    "MY",
+                    "NI",
+                    "NL",
+                    "NO",
+                    "NZ",
+                    "PA",
+                    "PE",
+                    "PH",
+                    "PL",
+                    "PT",
+                    "PY",
+                    "SE",
+                    "SG",
+                    "SK",
+                    "SV",
+                    "TR",
+                    "TW",
+                    "US",
+                    "UY"
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4GI5rLey0S6OClEc7YAmV8"
+                },
+                "href": "https://api.spotify.com/v1/albums/4GI5rLey0S6OClEc7YAmV8",
+                "id": "4GI5rLey0S6OClEc7YAmV8",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/20d2b4e5a2ef49e8dd8b62aefda9bc58e565262d",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/17d1dd5be79fac458ca8185674f20a63b12294ac",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/15fa8c1d060f80e4a6aa30542d4d7072f59e4c0e",
+                        "width": 64
+                    }
+                ],
+                "name": "Hotline Bling",
+                "type": "album",
+                "uri": "spotify:album:4GI5rLey0S6OClEc7YAmV8"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/09kCHZp9iFO2FJNb9lR6G5",
+                    "id": "09kCHZp9iFO2FJNb9lR6G5",
+                    "name": "Megan Davies",
+                    "type": "artist",
+                    "uri": "spotify:artist:09kCHZp9iFO2FJNb9lR6G5"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5q3F9c1HpdCd8WqSZiQM27"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5q3F9c1HpdCd8WqSZiQM27",
+                    "id": "5q3F9c1HpdCd8WqSZiQM27",
+                    "name": "Luke Preston",
+                    "type": "artist",
+                    "uri": "spotify:artist:5q3F9c1HpdCd8WqSZiQM27"
+                }
+            ],
+            "available_markets": [
+                "AD",
+                "AR",
+                "AT",
+                "AU",
+                "BE",
+                "BG",
+                "BO",
+                "BR",
+                "CA",
+                "CH",
+                "CL",
+                "CO",
+                "CR",
+                "CY",
+                "CZ",
+                "DE",
+                "DK",
+                "DO",
+                "EC",
+                "EE",
+                "ES",
+                "FI",
+                "FR",
+                "GB",
+                "GR",
+                "GT",
+                "HK",
+                "HN",
+                "HU",
+                "ID",
+                "IE",
+                "IS",
+                "IT",
+                "JP",
+                "LI",
+                "LT",
+                "LU",
+                "LV",
+                "MC",
+                "MT",
+                "MX",
+                "MY",
+                "NI",
+                "NL",
+                "NO",
+                "NZ",
+                "PA",
+                "PE",
+                "PH",
+                "PL",
+                "PT",
+                "PY",
+                "SE",
+                "SG",
+                "SK",
+                "SV",
+                "TR",
+                "TW",
+                "US",
+                "UY"
+            ],
+            "disc_number": 1,
+            "duration_ms": 207022,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "QM2PV1586994"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/3iguYbB1S0h7cZQhfHFF8o"
+            },
+            "href": "https://api.spotify.com/v1/tracks/3iguYbB1S0h7cZQhfHFF8o",
+            "id": "3iguYbB1S0h7cZQhfHFF8o",
+            "name": "Hotline Bling",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/d88a8f7a3224883d32e3af3a1628cc759ff68a9b?cid=98f61fa98b0c4dd7afeaf4fc261363b6",
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:3iguYbB1S0h7cZQhfHFF8o"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4EqB7cUIzAytMt9vCYfALQ"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4EqB7cUIzAytMt9vCYfALQ",
+                        "id": "4EqB7cUIzAytMt9vCYfALQ",
+                        "name": "Niko Kotoulas",
+                        "type": "artist",
+                        "uri": "spotify:artist:4EqB7cUIzAytMt9vCYfALQ"
+                    }
+                ],
+                "available_markets": [
+                    "AD",
+                    "AR",
+                    "AT",
+                    "AU",
+                    "BE",
+                    "BG",
+                    "BO",
+                    "BR",
+                    "CA",
+                    "CH",
+                    "CL",
+                    "CO",
+                    "CR",
+                    "CY",
+                    "CZ",
+                    "DE",
+                    "DK",
+                    "DO",
+                    "EC",
+                    "EE",
+                    "ES",
+                    "FI",
+                    "FR",
+                    "GB",
+                    "GR",
+                    "GT",
+                    "HK",
+                    "HN",
+                    "HU",
+                    "ID",
+                    "IE",
+                    "IS",
+                    "IT",
+                    "JP",
+                    "LI",
+                    "LT",
+                    "LU",
+                    "LV",
+                    "MC",
+                    "MT",
+                    "MX",
+                    "MY",
+                    "NI",
+                    "NL",
+                    "NO",
+                    "NZ",
+                    "PA",
+                    "PE",
+                    "PH",
+                    "PL",
+                    "PT",
+                    "PY",
+                    "SE",
+                    "SG",
+                    "SK",
+                    "SV",
+                    "TR",
+                    "TW",
+                    "US",
+                    "UY"
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1egKWW3737ZKU2D7BAsHWr"
+                },
+                "href": "https://api.spotify.com/v1/albums/1egKWW3737ZKU2D7BAsHWr",
+                "id": "1egKWW3737ZKU2D7BAsHWr",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/7a06886ddd519edf65d1dbee4d5a25c2efa42a5d",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/76e08df8e2b947872faf391cc3534eaa63fb07c5",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/e763530ad9c96a0b53aa7fe9ee08d209fc28d314",
+                        "width": 64
+                    }
+                ],
+                "name": "Piano Covers, Vol. 3",
+                "type": "album",
+                "uri": "spotify:album:1egKWW3737ZKU2D7BAsHWr"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4EqB7cUIzAytMt9vCYfALQ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4EqB7cUIzAytMt9vCYfALQ",
+                    "id": "4EqB7cUIzAytMt9vCYfALQ",
+                    "name": "Niko Kotoulas",
+                    "type": "artist",
+                    "uri": "spotify:artist:4EqB7cUIzAytMt9vCYfALQ"
+                }
+            ],
+            "available_markets": [
+                "AD",
+                "AR",
+                "AT",
+                "AU",
+                "BE",
+                "BG",
+                "BO",
+                "BR",
+                "CA",
+                "CH",
+                "CL",
+                "CO",
+                "CR",
+                "CY",
+                "CZ",
+                "DE",
+                "DK",
+                "DO",
+                "EC",
+                "EE",
+                "ES",
+                "FI",
+                "FR",
+                "GB",
+                "GR",
+                "GT",
+                "HK",
+                "HN",
+                "HU",
+                "ID",
+                "IE",
+                "IS",
+                "IT",
+                "JP",
+                "LI",
+                "LT",
+                "LU",
+                "LV",
+                "MC",
+                "MT",
+                "MX",
+                "MY",
+                "NI",
+                "NL",
+                "NO",
+                "NZ",
+                "PA",
+                "PE",
+                "PH",
+                "PL",
+                "PT",
+                "PY",
+                "SE",
+                "SG",
+                "SK",
+                "SV",
+                "TR",
+                "TW",
+                "US",
+                "UY"
+            ],
+            "disc_number": 1,
+            "duration_ms": 268068,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USE831562861"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/7tN95iiGg5n6MMDoD8uDxI"
+            },
+            "href": "https://api.spotify.com/v1/tracks/7tN95iiGg5n6MMDoD8uDxI",
+            "id": "7tN95iiGg5n6MMDoD8uDxI",
+            "name": "Hotline Bling",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/e21dfe3da6bc361d9eeee4f2968c0050396c1b0f?cid=98f61fa98b0c4dd7afeaf4fc261363b6",
+            "track_number": 7,
+            "type": "track",
+            "uri": "spotify:track:7tN95iiGg5n6MMDoD8uDxI"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4MXUO7sVCaFgFjoTI5ox5c",
+                        "id": "4MXUO7sVCaFgFjoTI5ox5c",
+                        "name": "Sufjan Stevens",
+                        "type": "artist",
+                        "uri": "spotify:artist:4MXUO7sVCaFgFjoTI5ox5c"
+                    }
+                ],
+                "available_markets": [
+                    "AD",
+                    "AR",
+                    "AT",
+                    "AU",
+                    "BE",
+                    "BG",
+                    "BO",
+                    "BR",
+                    "CA",
+                    "CH",
+                    "CL",
+                    "CO",
+                    "CR",
+                    "CY",
+                    "CZ",
+                    "DE",
+                    "DK",
+                    "DO",
+                    "EC",
+                    "EE",
+                    "ES",
+                    "FI",
+                    "FR",
+                    "GB",
+                    "GR",
+                    "GT",
+                    "HK",
+                    "HN",
+                    "HU",
+                    "ID",
+                    "IE",
+                    "IS",
+                    "IT",
+                    "JP",
+                    "LI",
+                    "LT",
+                    "LU",
+                    "LV",
+                    "MC",
+                    "MT",
+                    "MX",
+                    "MY",
+                    "NI",
+                    "NL",
+                    "NO",
+                    "NZ",
+                    "PA",
+                    "PE",
+                    "PH",
+                    "PL",
+                    "PT",
+                    "PY",
+                    "SE",
+                    "SG",
+                    "SK",
+                    "SV",
+                    "TR",
+                    "TW",
+                    "US",
+                    "UY"
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4QYo7aIi85tEuEOe0Y2ew0"
+                },
+                "href": "https://api.spotify.com/v1/albums/4QYo7aIi85tEuEOe0Y2ew0",
+                "id": "4QYo7aIi85tEuEOe0Y2ew0",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/73d0acfe38c212c49ec47dc85da16bbc2d353e3c",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/8784d30effaeed039ef560c2c4386b5e1fa3741e",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/b5157a9d710eda1620ec5219bac02dd75894f6f0",
+                        "width": 64
+                    }
+                ],
+                "name": "Carrie & Lowell Live",
+                "type": "album",
+                "uri": "spotify:album:4QYo7aIi85tEuEOe0Y2ew0"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4MXUO7sVCaFgFjoTI5ox5c",
+                    "id": "4MXUO7sVCaFgFjoTI5ox5c",
+                    "name": "Sufjan Stevens",
+                    "type": "artist",
+                    "uri": "spotify:artist:4MXUO7sVCaFgFjoTI5ox5c"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7wFDo161xYdeaiLz3KIHoM",
+                    "id": "7wFDo161xYdeaiLz3KIHoM",
+                    "name": "Gallant",
+                    "type": "artist",
+                    "uri": "spotify:artist:7wFDo161xYdeaiLz3KIHoM"
+                }
+            ],
+            "available_markets": [
+                "AD",
+                "AR",
+                "AT",
+                "AU",
+                "BE",
+                "BG",
+                "BO",
+                "BR",
+                "CA",
+                "CH",
+                "CL",
+                "CO",
+                "CR",
+                "CY",
+                "CZ",
+                "DE",
+                "DK",
+                "DO",
+                "EC",
+                "EE",
+                "ES",
+                "FI",
+                "FR",
+                "GB",
+                "GR",
+                "GT",
+                "HK",
+                "HN",
+                "HU",
+                "ID",
+                "IE",
+                "IS",
+                "IT",
+                "JP",
+                "LI",
+                "LT",
+                "LU",
+                "LV",
+                "MC",
+                "MT",
+                "MX",
+                "MY",
+                "NI",
+                "NL",
+                "NO",
+                "NZ",
+                "PA",
+                "PE",
+                "PH",
+                "PL",
+                "PT",
+                "PY",
+                "SE",
+                "SG",
+                "SK",
+                "SV",
+                "TR",
+                "TW",
+                "US",
+                "UY"
+            ],
+            "disc_number": 1,
+            "duration_ms": 283845,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "US64G1713216"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/7AyTGWAPfc6M8M2oUF3NJ9"
+            },
+            "href": "https://api.spotify.com/v1/tracks/7AyTGWAPfc6M8M2oUF3NJ9",
+            "id": "7AyTGWAPfc6M8M2oUF3NJ9",
+            "name": "Hotline Bling (Encore) - Live",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/d0ced3cbff9fdac391809f7c0ff6f6c689306ab5?cid=98f61fa98b0c4dd7afeaf4fc261363b6",
+            "track_number": 16,
+            "type": "track",
+            "uri": "spotify:track:7AyTGWAPfc6M8M2oUF3NJ9"
+        }
+    ],
+    "limit": 20,
+    "next": "https://api.spotify.com/v1/search?query=hotline+bling&type=track&offset=20&limit=20",
+    "offset": 0,
+    "previous": null,
+    "total": 690
+}
