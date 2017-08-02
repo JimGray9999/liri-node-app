@@ -20,34 +20,46 @@ var spotifyAccess = new Spotify({
 });
 
 // inputs
-var nodeArgs = process.argv;
+var nodeArgs = process.argv; // all node args
 var command = process.argv[2]; // command input
 
-// BONUS TODO: 
-// append the command + searchString to a log.txt file
-
-// Liri commands:
 // TODO Extra: inquirer function
     // ask the user what they would like to do
 
+// execute program:
 logCommand(); // log entered command, append to log.txt file
+runLiri(); // check the command to determine function to run
 
-// check the command to determine function to run
-if (command === 'my-tweets') {
-    myTweets();
-} else if (command === 'spotify-this-song') {
-    // get info on song provided from Spotify API
-    spotifyThis();
-} else if (command === 'movie-this') {
-    movieThis();
-} else if (command === 'do-what-it-says') {
-    // TODO: do what it says, read the random.txt file and execute command
-} else {
-    console.log("Invalid command, please try again.");
+function runLiri(){
+    if (command === 'my-tweets') {
+        myTweets();
+    } else if (command === 'spotify-this-song') {
+        // get info on song provided from Spotify API
+        spotifyThis();
+    } else if (command === 'movie-this') {
+        movieThis();
+    } else if (command === 'do-what-it-says') {
+        // TODO: do what it says, read the random.txt file and execute command
+    } else {
+        console.log("Invalid command, please try again.");
+    }
 }
 
+
 function logCommand(){
-    fs.appendFile("log.txt", process.argv, function(err){
+    // prep log.txt entry
+    var timeStamp = new Date();
+    if(nodeArgs[3] === undefined){
+        var search = "N/A";
+    } else{
+        var search = nodeArgs[3];
+    }
+    var logStuff = `Date: ${timeStamp}\rCommand: ${nodeArgs[2]}\rSearch: ${search}\r
+                    ----------\r`;
+    // end prep log.txt entry
+
+    // append recent LIRI command to log.txt file
+    fs.appendFile("log.txt", logStuff, function(err){
         if (err){
             console.log(`File Write error: ${error}`);
         }
@@ -82,30 +94,22 @@ function spotifyThis(){
 
     spotifyAccess.search(songParams, function(error, data) {
         if (error) { console.log("I am error: " + error); }
-        
-        // DEBUG ONLY: console log testing
-            // console.log(data.tracks.items);
-            // console.log(data.tracks.items[0].album.name);
-            // console.log(data.tracks.items[0].name);
-            // console.log(data.tracks.items[0].artists[0].name);
-            // console.log(data.tracks.items[0].preview_url);
 
-        var albumName = data.tracks.items[1].album.name;
-        var songName = data.tracks.items[1].name;
-        var artistName = data.tracks.items[1].artists[0].name;
-        var previewUrl = data.tracks.items[1].preview_url;
-        
-        if (previewUrl === null){
-            previewUrl = "N/A";
+        for (i = 0 ; i < 20; i++){
+            var albumName = data.tracks.items[i].album.name;
+            var songName = data.tracks.items[i].name;
+            var artistName = data.tracks.items[i].artists[0].name;
+            var previewUrl = data.tracks.items[i].preview_url;
+            
+            if (previewUrl === null){
+                previewUrl = "N/A";
+            }
+            console.log(`Artist(s): ${artistName}`);
+            console.log(`Song Name: ${songName}`);
+            console.log(`Preview: ${previewUrl}`);
+            console.log(`Album: ${albumName}`);
         }
-        
-        console.log(`Artist(s): ${artistName}`);
-        console.log(`Song Name: ${songName}`);
-        console.log(`Preview: ${previewUrl}`);
-        console.log(`Album: ${albumName}`);
-        // https://developer.spotify.com/web-api/search-item/
 
-        
         // DEBUG ONLY: write results to a JSON file (testing purposes)
             // fs.writeFile("testy.json", JSON.stringify(data.tracks), function(err) {
             // // If the code experiences any errors it will log the error to the console.
@@ -118,8 +122,9 @@ function spotifyThis(){
 
 function movieThis(){
     var movieName = process.argv[3];
+    var movieKey = keys.omdbKey.key;
 
-    var queryUrl = `http://www.omdbapi.com/?t=${movieName}&y=&plot=short&apikey=40e9cece`;
+    var queryUrl = `http://www.omdbapi.com/?t=${movieName}&y=&plot=short&apikey=${movieKey}`;
 
     request(queryUrl, function(error, response, body) {
 
@@ -159,4 +164,16 @@ function movieThis(){
         console.log("---------------------------------");
     };
   });
+}
+
+function doWhatItSays(){
+    fs.readFile("random.txt", "utf-8", function(err, data){
+        if (error){
+            console.log(`Read File Error: ${error}`);
+        };
+
+        var commandArr = data.split(",");
+        command = commandArr[0];
+        runLiri();
+    });
 }

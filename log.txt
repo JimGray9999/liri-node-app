@@ -1,1 +1,8 @@
-C:\Program Files\nodejs\node.exe,C:\Users\jimgr\Desktop\UNCC-Classwork\liri-node-app\liri,spotify-this-songC:\Program Files\nodejs\node.exe,C:\Users\jimgr\Desktop\UNCC-Classwork\liri-node-app\liri,spotify-this-songC:\Program Files\nodejs\node.exe,C:\Users\jimgr\Desktop\UNCC-Classwork\liri-node-app\liri,movie-this,DuneC:\Program Files\nodejs\node.exe,C:\Users\jimgr\Desktop\UNCC-Classwork\liri-node-app\liri,movie-this,DuneC:\Program Files\nodejs\node.exe,C:\Users\jimgr\Desktop\UNCC-Classwork\liri-node-app\liri,movie-this,EmojiC:\Program Files\nodejs\node.exe,C:\Users\jimgr\Desktop\UNCC-Classwork\liri-node-app\liri,movie-this,EmojiC:\Program Files\nodejs\node.exe,C:\Users\jimgr\Desktop\UNCC-Classwork\liri-node-app\liri,movie-this,EmojiC:\Program Files\nodejs\node.exe,C:\Users\jimgr\Desktop\UNCC-Classwork\liri-node-app\liri,movie-this,Dune
+# Log records of LIRI searches:
+
+Date: Wed Aug 02 2017 12:45:50 GMT-0400 (Eastern Daylight Time)Command: undefinedSearch: undefined
+                    ----------Date: Wed Aug 02 2017 12:46:13 GMT-0400 (Eastern Daylight Time)Command: my-tweetsSearch: undefined
+                    ----------Date: Wed Aug 02 2017 12:53:50 GMT-0400 (Eastern Daylight Time)Command: movie-thisSearch: N/A
+                    ----------Date: Wed Aug 02 2017 12:53:54 GMT-0400 (Eastern Daylight Time)Command: movie-thisSearch: Dune
+                    ----------Date: Wed Aug 02 2017 13:00:31 GMT-0400 (Eastern Daylight Time)Command: spotify-this-songSearch: N/A
+                    ----------
