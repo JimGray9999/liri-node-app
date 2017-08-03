@@ -3,8 +3,8 @@ var keys = require("./keys.js"); // holds API keys...shhhh
 var twitAPI = require("twitter"); // Twitter package
 var Spotify = require('node-spotify-api'); // Spotify package
 var request = require("request"); // request package
-var fs = require("fs");
-var inquirer = require("inquirer");
+var fs = require("fs"); // file system package
+var inquirer = require("inquirer"); // inquirer package
 
 
 // get the API keys assigned
@@ -22,6 +22,7 @@ var spotifyAccess = new Spotify({
 // inputs
 var nodeArgs = process.argv; // all node args
 var command = process.argv[2]; // command input
+var search = process.argv[3]; // search parameter
 
 // TODO Extra: inquirer function
     // ask the user what they would like to do
@@ -40,6 +41,7 @@ function runLiri(){
         movieThis();
     } else if (command === 'do-what-it-says') {
         // TODO: do what it says, read the random.txt file and execute command
+        doWhatItSays();
     } else {
         console.log("Invalid command, please try again.");
     }
@@ -87,8 +89,8 @@ function spotifyThis(){
     // define search parameters
     // options for type: artist, album or track
     var searchString = "The Sign"; // search parameter
-    if (process.argv[3]){
-        searchString = process.argv[3];
+    if (search){
+        searchString = search;
     }
     var songParams = { type: 'track', query: `${searchString}` };
 
@@ -108,6 +110,7 @@ function spotifyThis(){
             console.log(`Song Name: ${songName}`);
             console.log(`Preview: ${previewUrl}`);
             console.log(`Album: ${albumName}`);
+            console.log("------------------------------");
         }
 
         // DEBUG ONLY: write results to a JSON file (testing purposes)
@@ -168,12 +171,13 @@ function movieThis(){
 
 function doWhatItSays(){
     fs.readFile("random.txt", "utf-8", function(err, data){
-        if (error){
+        if (err){
             console.log(`Read File Error: ${error}`);
         };
 
         var commandArr = data.split(",");
         command = commandArr[0];
+        search = commandArr[1];
         runLiri();
     });
 }
